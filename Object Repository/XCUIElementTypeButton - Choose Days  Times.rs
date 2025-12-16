@@ -13,7 +13,7 @@
       <name>type</name>
       <type>Main</type>
       <value>XCUIElementTypeButton</value>
-      <webElementGuid>5a2e90dd-ca8a-402b-9bc2-75b1f9d7dd9d</webElementGuid>
+      <webElementGuid>d5abc3c3-2acf-4b49-b338-d9eb4eb1aa15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>6db775d6-9e17-429c-b2c4-8a9827a15cf9</webElementGuid>
+      <webElementGuid>1a34cfe5-bdb2-42e3-a130-4670169c78fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f535c8e0-8751-4339-8542-ede079630738</webElementGuid>
+      <webElementGuid>099a307e-9335-46dd-a1c7-c4e59ebdad46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>height</name>
       <type>Main</type>
       <value>112.0</value>
-      <webElementGuid>c52967f3-40fe-491b-b1eb-a439d40dcf79</webElementGuid>
+      <webElementGuid>9e4e3b26-8556-41af-9ca4-98508f732e08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>index</name>
       <type>Main</type>
       <value>15</value>
-      <webElementGuid>02d079bb-916f-42a4-9931-afa4de00937e</webElementGuid>
+      <webElementGuid>5b00f433-25b8-4344-bb36-1d2c3c6143bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>label</name>
       <type>Main</type>
       <value>Choose Days &amp; Times</value>
-      <webElementGuid>1aa6a9bd-1a53-4b47-a1de-6f78e86e1e3b</webElementGuid>
+      <webElementGuid>d924cfcb-78d7-4430-bd43-45d865dee5d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Choose Days &amp; Times</value>
-      <webElementGuid>e5903eb3-9df4-4ddb-8061-a6ee8b57899c</webElementGuid>
+      <webElementGuid>c2eaa039-2431-47f8-b72f-085df4c52ff5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>traits</name>
       <type>Main</type>
       <value>Button</value>
-      <webElementGuid>1d8d5304-eb71-487c-a3c7-d7c0be9b50cb</webElementGuid>
+      <webElementGuid>694860fd-b5c6-4a2f-8d2a-09a7e07a26d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>width</name>
       <type>Main</type>
       <value>722.0</value>
-      <webElementGuid>b80f4527-7d60-45cf-9531-6759e5ad09b0</webElementGuid>
+      <webElementGuid>9f9d2f30-204c-4e03-a00e-015904a52207</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>x</name>
       <type>Main</type>
       <value>32.0</value>
-      <webElementGuid>9d78b446-3540-4d1d-8558-91fe2e67cbbb</webElementGuid>
+      <webElementGuid>f2474c3d-e9fe-4bc7-b9f4-1318db62c5f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>y</name>
       <type>Main</type>
       <value>1266.0</value>
-      <webElementGuid>122827eb-cc52-4913-9f18-803e85771711</webElementGuid>
+      <webElementGuid>98b87e7f-4a53-4c1b-8448-8f5d2557f090</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,20 +101,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeButton[3]</value>
-      <webElementGuid>91a9f12d-a52e-42a9-b0f0-cd4dc2a1753c</webElementGuid>
+      <webElementGuid>a0929450-8e30-4ac0-919b-0b894dc9fe45</webElementGuid>
    </webElementProperties>
    <locator>//*[@type = 'XCUIElementTypeButton' and @label = 'Choose Days &amp; Times' and @name = 'Choose Days &amp; Times']</locator>
    <locatorCollection>
+      <entry>
+         <key>ID</key>
+         <value>Choose Days &amp; Times</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeButton' and @label = 'Choose Days &amp; Times' and @name = 'Choose Days &amp; Times']</value>
+      </entry>
       <entry>
          <key>ACCESSIBILITY</key>
          <value>Choose Days &amp; Times</value>
       </entry>
       <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value></value>
+         <key>CLASS_NAME</key>
+         <value>XCUIElementTypeButton</value>
       </entry>
       <entry>
-         <key>ID</key>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeButton' AND label == 'Choose Days &amp; Times' AND name == 'Choose Days &amp; Times'</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>NAME</key>
          <value>Choose Days &amp; Times</value>
       </entry>
       <entry>
@@ -122,36 +140,14 @@
          <value>**/XCUIElementTypeButton[`label == 'Choose Days &amp; Times' AND name == 'Choose Days &amp; Times'`]</value>
       </entry>
       <entry>
+         <key>CUSTOM</key>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeButton[3]</value>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeButton' and @label = 'Choose Days &amp; Times' and @name = 'Choose Days &amp; Times']</value>
-      </entry>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeButton' AND label == 'Choose Days &amp; Times' AND name == 'Choose Days &amp; Times'</value>
-      </entry>
-      <entry>
-         <key>CUSTOM</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>CLASS_NAME</key>
-         <value>XCUIElementTypeButton</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>NAME</key>
-         <value>Choose Days &amp; Times</value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

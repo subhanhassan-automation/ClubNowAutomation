@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>XCUIElementTypeOther - main</name>
+   <name>XCUIElementTypeImage - event (1)</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,16 +12,16 @@
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>XCUIElementTypeOther</value>
-      <webElementGuid>533d837d-32dd-49b4-be68-b9c041a0a93f</webElementGuid>
+      <value>XCUIElementTypeImage</value>
+      <webElementGuid>c74ab925-c793-4fba-849d-ea44f1dfa1b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>accessible</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>dff78c87-46b1-433f-a8bd-af0cd2b672fd</webElementGuid>
+      <value>true</value>
+      <webElementGuid>2f6537c0-f256-4a7a-9e40-86c4597fc9b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,47 +29,55 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a4fd51b0-3428-4745-8d50-9ddf237d9d26</webElementGuid>
+      <webElementGuid>525133b1-116b-43cd-94ef-523d7fbbdbc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>1686.0</value>
-      <webElementGuid>7645f204-f49f-48c3-a730-a573ee3991ab</webElementGuid>
+      <value>398.0</value>
+      <webElementGuid>ceb4191d-ae1e-4243-a288-ae7c55ab9f0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>3183478b-8c4b-495c-ad8d-883a8bb2d5be</webElementGuid>
+      <value>30</value>
+      <webElementGuid>e255fde4-79a0-41f2-961a-679b87767d7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>label</name>
       <type>Main</type>
-      <value>main</value>
-      <webElementGuid>291270d7-569e-4ef0-bba6-6db43fd42306</webElementGuid>
+      <value>event</value>
+      <webElementGuid>71344bc1-6699-4fdd-8e5f-eb7b6d486938</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>main</value>
-      <webElementGuid>09014ec8-3a4e-4c9d-8457-7868576f49ff</webElementGuid>
+      <value>event</value>
+      <webElementGuid>d08fc1c0-60d0-4284-b26b-c23fb7ccbdef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>traits</name>
+      <type>Main</type>
+      <value>Image</value>
+      <webElementGuid>018446d6-43d1-4566-9081-b35769e1a58c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>786.0</value>
-      <webElementGuid>27b5c0b8-6531-48a9-84ba-6d9453323428</webElementGuid>
+      <value>790.0</value>
+      <webElementGuid>a3692344-f910-4a79-958e-20b355d7d4e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,69 +85,73 @@
       <name>x</name>
       <type>Main</type>
       <value>0.0</value>
-      <webElementGuid>4b5a6f6c-b46e-4475-bf60-706c1fa23b8d</webElementGuid>
+      <webElementGuid>393acd57-4505-45d9-b41c-e1f95aa753b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>0.0</value>
-      <webElementGuid>53747275-45d9-4ecb-89d7-8dfb4d6e47d4</webElementGuid>
+      <value>804.0</value>
+      <webElementGuid>45d8b62b-8b64-48f2-a63c-97c5fbe52d74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]</value>
-      <webElementGuid>5f7f5d9f-5f20-4edc-af69-e76973c32b5c</webElementGuid>
+      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeImage[4]</value>
+      <webElementGuid>2aa67257-5d7d-454e-8a70-aba4bfb95e6f</webElementGuid>
    </webElementProperties>
-   <locator>//*[@type = 'XCUIElementTypeOther' and @label = 'main' and @name = 'main']</locator>
+   <locator>//*[@type = 'XCUIElementTypeImage' and @label = 'event' and @name = 'event']</locator>
    <locatorCollection>
       <entry>
          <key>ID</key>
-         <value>main</value>
+         <value>event</value>
       </entry>
       <entry>
          <key>ANDROID_VIEWTAG</key>
+         <value></value>
       </entry>
       <entry>
          <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeOther' and @label = 'main' and @name = 'main']</value>
+         <value>//*[@type = 'XCUIElementTypeImage' and @label = 'event' and @name = 'event']</value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
-         <value>main</value>
+         <value>event</value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
-         <value>XCUIElementTypeOther</value>
+         <value>XCUIElementTypeImage</value>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeOther' AND label == 'main' AND name == 'main'</value>
+         <value>type == 'XCUIElementTypeImage' AND label == 'event' AND name == 'event'</value>
       </entry>
       <entry>
          <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>NAME</key>
-         <value>main</value>
+         <value>event</value>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
-         <value>**/XCUIElementTypeOther[`label == 'main' AND name == 'main'`]</value>
+         <value>**/XCUIElementTypeImage[`label == 'event' AND name == 'event'`]</value>
       </entry>
       <entry>
          <key>CUSTOM</key>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]</value>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeImage[4]</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

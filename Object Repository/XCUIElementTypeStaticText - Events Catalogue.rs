@@ -13,7 +13,7 @@
       <name>type</name>
       <type>Main</type>
       <value>XCUIElementTypeStaticText</value>
-      <webElementGuid>01148b4a-9775-422c-9a59-179cbae88f50</webElementGuid>
+      <webElementGuid>d202b039-7c71-4107-a194-2a19864082e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>9af34c9f-2931-4495-b8b8-ae5c1e4ef6a1</webElementGuid>
+      <webElementGuid>bac39549-a8c7-4103-afe9-a9daff1af9a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>d318e254-0ab8-4a8a-8fed-c4416f9820d5</webElementGuid>
+      <webElementGuid>3c4e1da0-1fc2-4946-8c3f-e9f5306e33e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>height</name>
       <type>Main</type>
       <value>72.0</value>
-      <webElementGuid>663fe853-3f47-4142-a807-a4dffd65b3d7</webElementGuid>
+      <webElementGuid>9c4e52e4-7e22-4ec2-a902-b6db4bb3b8a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>aa359b1a-287d-41dc-a0a6-369ac6c485d3</webElementGuid>
+      <webElementGuid>5c82ac38-c9e1-4fb5-be93-6d6ffc77c10f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>label</name>
       <type>Main</type>
       <value>Events Catalogue</value>
-      <webElementGuid>0dc263e1-04fb-4025-bbcc-e040b70a8d94</webElementGuid>
+      <webElementGuid>94f7d15d-f2c2-4376-9edf-f6935ab5519f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Events Catalogue</value>
-      <webElementGuid>41917979-295b-4908-af54-e077553091fb</webElementGuid>
+      <webElementGuid>afb47e9c-0035-4cd0-8e3d-2e2c3a9c56ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>traits</name>
       <type>Main</type>
       <value>StaticText</value>
-      <webElementGuid>4338f379-f641-45d0-866f-e4014bd170de</webElementGuid>
+      <webElementGuid>29b4050d-877a-43b3-8968-00f85d454226</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Events Catalogue</value>
-      <webElementGuid>71a6c281-39cb-4397-a3e2-37572e43e925</webElementGuid>
+      <webElementGuid>6a1bdec4-c327-431b-a65c-35c98ccf6269</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>width</name>
       <type>Main</type>
       <value>126.0</value>
-      <webElementGuid>be7a0a09-d163-4a63-bc11-3046eacf8705</webElementGuid>
+      <webElementGuid>f896dab1-9d7d-43bc-985a-6b0fd0667a66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>x</name>
       <type>Main</type>
       <value>560.0</value>
-      <webElementGuid>2b21215d-7483-45d6-9c12-3fa8b8dd6eb1</webElementGuid>
+      <webElementGuid>64d166e8-34dd-447d-b297-a922fe5a7497</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>y</name>
       <type>Main</type>
       <value>1336.0</value>
-      <webElementGuid>3a7ea382-fc38-4890-8d28-05f01a0098d2</webElementGuid>
+      <webElementGuid>95753316-cd0e-4222-8465-abed1ff9edc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,20 +109,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[16]/XCUIElementTypeStaticText[1]</value>
-      <webElementGuid>c93c33c3-52fc-4f0e-aaa9-84132a5333fe</webElementGuid>
+      <webElementGuid>02271ba4-99bf-4849-9d2b-5412079880ed</webElementGuid>
    </webElementProperties>
    <locator>//*[@type = 'XCUIElementTypeStaticText' and @label = 'Events Catalogue' and @name = 'Events Catalogue' and @value = 'Events Catalogue']</locator>
    <locatorCollection>
+      <entry>
+         <key>ID</key>
+         <value>Events Catalogue</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = 'Events Catalogue' and @name = 'Events Catalogue' and @value = 'Events Catalogue']</value>
+      </entry>
       <entry>
          <key>ACCESSIBILITY</key>
          <value>Events Catalogue</value>
       </entry>
       <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value></value>
+         <key>CLASS_NAME</key>
+         <value>XCUIElementTypeStaticText</value>
       </entry>
       <entry>
-         <key>ID</key>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeStaticText' AND label == 'Events Catalogue' AND name == 'Events Catalogue' AND name == 'Events Catalogue'</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>NAME</key>
          <value>Events Catalogue</value>
       </entry>
       <entry>
@@ -130,36 +148,14 @@
          <value>**/XCUIElementTypeStaticText[`label == 'Events Catalogue' AND name == 'Events Catalogue' AND value == 'Events Catalogue'`]</value>
       </entry>
       <entry>
+         <key>CUSTOM</key>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[16]/XCUIElementTypeStaticText[1]</value>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = 'Events Catalogue' and @name = 'Events Catalogue' and @value = 'Events Catalogue']</value>
-      </entry>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeStaticText' AND label == 'Events Catalogue' AND name == 'Events Catalogue' AND name == 'Events Catalogue'</value>
-      </entry>
-      <entry>
-         <key>CUSTOM</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>CLASS_NAME</key>
-         <value>XCUIElementTypeStaticText</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>NAME</key>
-         <value>Events Catalogue</value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
