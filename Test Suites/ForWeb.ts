@@ -65,4 +65,30 @@
       <testCaseId>Test Cases/Teetime/CreateReservationOnTeesheet</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>e660ae3e-9b3e-46c0-b44f-8446864cd121</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/siteSwt/siteSwitch</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ad8a2821-bc5b-486d-bef2-34f8b3f2d054</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/siteSwt/Create Payment type with Check Type</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLinks>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1a52016e-4d2a-4edc-9e52-c2a752f4aa28</variableId>
+      </variableLinks>
+      <variableLinks>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>acd50418-7f0e-4d8c-acfa-fa1857326b19</variableId>
+      </variableLinks>
+   </testCaseLink>
 </TestSuiteEntity>
