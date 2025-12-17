@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>sampleCaseForDirectPush</name>
+   <name>sampleTestCaseFromSubhan</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>e7f25cb9-5333-4e2a-8f41-8cbdb490454c</testCaseGuid>
+   <testCaseGuid>7fb72fb6-1585-4570-94ae-37b708175909</testCaseGuid>
 </TestCaseEntity>
