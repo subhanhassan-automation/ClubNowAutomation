@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>EventReservationFromCatalog</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>0ed898a5-29cb-4168-a594-9fa9ccedfc7f</testCaseGuid>
-</TestCaseEntity>

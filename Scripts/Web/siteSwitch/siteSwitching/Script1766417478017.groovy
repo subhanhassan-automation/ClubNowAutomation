@@ -21,21 +21,35 @@ WebUI.callTestCase(findTestCase('Web/Login/login'), [:], FailureHandling.STOP_ON
 
 WebUI.click(findTestObject('Object Repository/Page_NS - Login/a_Skip_dropdownMenuButton'))
 
+WebUI.waitForPageLoad(2000)
+
 WebUI.click(findTestObject('Object Repository/Page_NS - Login/button_DAC'))
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Login/span_DAC'))
+WebUI.click(findTestObject('Object Repository/Page_NS - Login/button_DAC'))
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Login/span_Tee Time'))
+WebUI.click(findTestObject('Object Repository/Page_NS - Login/span_DAC - GOLF'))
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/a_Tee Sheet'))
+WebUI.click(findTestObject('Object Repository/Page_NS - Login/button_DAC - GOLF'))
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/td_Players_000cId5011td2'))
+WebUI.click(findTestObject('Object Repository/Page_NS - Login/span_DAC - FITNESS  MASSAGE'))
 
-WebUI.setText(findTestObject('Object Repository/Page_NS - Tee Sheet/input_Bill To Player_ysearchinputmemberNumber11'), '.')
+WebUI.click(findTestObject('Object Repository/Page_NS - Login/button_DAC - FITNESS  MASSAGE'))
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/a_,cx c,  dcds,cdscsdcsd 110th Texas Amateu_f858da'))
+WebUI.click(findTestObject('Object Repository/Page_NS - Login/a_DAC - TENNIS'))
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/input_Player 9_saveButton'))
+WebUI.click(findTestObject('Object Repository/Page_NS - Login/div_Purchasing'))
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/div_Create Lottery Requests_TransparentBlock'))
+WebUI.click(findTestObject('Object Repository/Page_NS - Create PO/a_Create PO'))
+
+WebUI.setText(findTestObject('Object Repository/Page_NS - Create PO/input_Purchase Order_poNum'), 'abc')
+
+WebUI.click(findTestObject('Object Repository/Page_NS - Create PO/a_Skip_dropdownMenuButton'))
+
+WebUI.click(findTestObject('Object Repository/Page_NS - Create PO/div_Lockers'))
+
+WebUI.click(findTestObject('Object Repository/Page_NS - Locker Revenue Report/a_Locker Revenue Report'))
+
+WebUI.click(findTestObject('Object Repository/Page_NS - Locker Revenue Report/a_Skip_dropdownMenuButton'))
+
+WebUI.click(findTestObject('Object Repository/Page_NS - Locker Revenue Report/span_Inventory'))
 

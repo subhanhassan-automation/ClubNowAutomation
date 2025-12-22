@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>SignleDayEventReservationTry</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>f91d6c5d-b801-4244-9bf7-548c82021aa6</testCaseGuid>
-</TestCaseEntity>

@@ -26,7 +26,7 @@ int randomNumber = rand.nextInt(1000 // Generates a random integer between 0 (in
 String randomName = namePayType + String.valueOf(randomNumber // Convert to String if needed for UI input
     )
 
-WebUI.callTestCase(findTestCase('Login/login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Web/Login/login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.waitForPageLoad(200)
 

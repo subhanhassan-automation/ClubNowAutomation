@@ -17,25 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Web/Login/login'), [:], FailureHandling.STOP_ON_FAILURE)
+Mobile.startApplication('D:\\APK\\CN30EURL.apk', true)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Login/a_Skip_dropdownMenuButton'))
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - Continue to Login'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Login/button_DAC'))
+Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText'), '10007')
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Login/span_DAC'))
+Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText (1)'), '123456')
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Login/span_Tee Time'))
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - Sign In'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/a_Tee Sheet'))
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/td_Players_000cId5011td2'))
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - Events Catalogue'), 0)
 
-WebUI.setText(findTestObject('Object Repository/Page_NS - Tee Sheet/input_Bill To Player_ysearchinputmemberNumber11'), '.')
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Yoga with Yogesh - Series'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/a_,cx c,  dcds,cdscsdcsd 110th Texas Amateu_f858da'))
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - Choose Days  Times'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/input_Player 9_saveButton'))
+Mobile.tap(findTestObject('continueToLogin'), 1800)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/div_Create Lottery Requests_TransparentBlock'))
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - Create Reservation'), 0)
+
+Mobile.takeScreenshot('C:\\Users\\EHSANH~1\\AppData\\Local\\Temp\\screenshot16689980727093340990.png')
+
+Mobile.closeApplication()
 

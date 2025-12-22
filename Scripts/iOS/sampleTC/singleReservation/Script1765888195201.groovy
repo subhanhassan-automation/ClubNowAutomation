@@ -17,25 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Web/Login/login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('iOS/sampleTC/logIn'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Login/a_Skip_dropdownMenuButton'))
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - MenuInactive'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Login/button_DAC'))
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeStaticText - Events Catalogue'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Login/span_DAC'))
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeOther - main'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Login/span_Tee Time'))
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Choose Days  Times'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/a_Tee Sheet'))
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Myself (1)'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/td_Players_000cId5011td2'))
+Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeTextView - Add any special requests or comments'), 'Single Reservation')
 
-WebUI.setText(findTestObject('Object Repository/Page_NS - Tee Sheet/input_Bill To Player_ysearchinputmemberNumber11'), '.')
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Done'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/a_,cx c,  dcds,cdscsdcsd 110th Texas Amateu_f858da'))
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Create Reservation (1)'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/input_Player 9_saveButton'))
-
-WebUI.click(findTestObject('Object Repository/Page_NS - Tee Sheet/div_Create Lottery Requests_TransparentBlock'))
+Mobile.closeApplication()
 
