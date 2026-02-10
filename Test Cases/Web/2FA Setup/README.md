@@ -74,6 +74,11 @@ The 2FA setup page supports various authenticator apps and browser extensions:
 
 ## Implementation Notes
 
+### Code Quality
+- **Minimal Imports**: Scripts only import necessary Katalon classes (findTestObject, FailureHandling, WebUI)
+- **Placeholder Codes**: The hardcoded verification code '123456' in test scripts is intentional as a placeholder to demonstrate the flow. In production, replace with actual TOTP-generated codes.
+- **Project File**: The Northstar.prj contains developer-specific paths which is normal for Katalon projects - each developer will have their own local path configuration.
+
 ### Selectors Used
 The object repository elements use multiple selector strategies for reliability:
 - **XPATH**: Primary selector using text content or attributes
