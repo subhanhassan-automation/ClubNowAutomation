@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>XCUIElementTypeTextField - LandingViewController.txtFieldClubName</name>
+   <name>XCUIElementTypeButton - LandingViewController.connectBtn</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,8 +12,8 @@
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>XCUIElementTypeTextField</value>
-      <webElementGuid>55c7e991-bf4c-40f2-bcdf-a7a3011ad0dc</webElementGuid>
+      <value>XCUIElementTypeButton</value>
+      <webElementGuid>85f8f5b6-4ade-4945-9157-94b14749f103</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>df754dbc-9cd8-45d8-8444-a064fe0395a0</webElementGuid>
+      <webElementGuid>35ab845c-6023-435c-83f6-15ea4dcaf94d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,47 +29,47 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b1d1ec9c-1bdc-4356-8ec5-83ff0e47bc13</webElementGuid>
+      <webElementGuid>88225761-679c-470c-b0a9-6bf19d9b69b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>90.0</value>
-      <webElementGuid>8deefa9e-361b-4381-90b8-a9da1738d4a2</webElementGuid>
+      <value>102.0</value>
+      <webElementGuid>cc4375d6-b80a-42eb-a6bb-c68e585bdace</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>db62c7c7-e306-43f9-99b8-7c305e7d4964</webElementGuid>
+      <value>1</value>
+      <webElementGuid>5d2f12ce-d9e5-4d08-aea3-73e738bb3dfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>CONNECT</value>
+      <webElementGuid>040d7513-2762-4c1f-85a0-0f1a1ff30e9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>LandingViewController.txtFieldClubName</value>
-      <webElementGuid>01aa8d61-3474-4efc-94cb-4d7191b00451</webElementGuid>
+      <value>LandingViewController.connectBtn</value>
+      <webElementGuid>dc9576f0-178b-4609-8002-7c9989150558</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholderValue</name>
+      <name>traits</name>
       <type>Main</type>
-      <value>Club Id</value>
-      <webElementGuid>f5052830-211f-4d5f-8014-194fea8c0d66</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>Club Id</value>
-      <webElementGuid>ff554112-fb48-4870-ad05-61bf7a148f84</webElementGuid>
+      <value>Button</value>
+      <webElementGuid>e851c0a4-6b34-46b3-8456-2389a4d8b4c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>width</name>
       <type>Main</type>
       <value>744.0</value>
-      <webElementGuid>6105b6e1-cfd1-4ac5-887e-77d0fd477e32</webElementGuid>
+      <webElementGuid>7ebd0f8f-896c-4b0b-a7e2-6c5de692bbd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,69 +85,73 @@
       <name>x</name>
       <type>Main</type>
       <value>30.0</value>
-      <webElementGuid>d2ecbe57-c9a3-4fbb-b777-8e65f586ecfc</webElementGuid>
+      <webElementGuid>5799f636-87c0-4abb-b2f1-99587a60fa8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>1404.0</value>
-      <webElementGuid>9cf9e3cb-71de-4fa1-9e0e-f897fa9e5da4</webElementGuid>
+      <value>1064.0</value>
+      <webElementGuid>f4f1bf22-b12f-4d21-a481-a9d9dfc969c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTextField[1]</value>
-      <webElementGuid>8800e715-86a2-4cc9-b19a-d2d8de26700b</webElementGuid>
+      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[1]</value>
+      <webElementGuid>d523e6d0-57b9-4f60-ba33-369c865443ab</webElementGuid>
    </webElementProperties>
-   <locator>//*[@type = 'XCUIElementTypeTextField' and @name = 'LandingViewController.txtFieldClubName' and @value = 'Club Id']</locator>
+   <locator>//*[@type = 'XCUIElementTypeButton' and @label = 'CONNECT' and @name = 'LandingViewController.connectBtn']</locator>
    <locatorCollection>
       <entry>
          <key>CUSTOM</key>
-      </entry>
-      <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value>**/XCUIElementTypeTextField[`name == 'LandingViewController.txtFieldClubName' AND value == 'Club Id'`]</value>
-      </entry>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeTextField' AND name == 'LandingViewController.txtFieldClubName' AND name == 'Club Id'</value>
+         <value></value>
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeTextField' and @name = 'LandingViewController.txtFieldClubName' and @value = 'Club Id']</value>
-      </entry>
-      <entry>
-         <key>NAME</key>
-         <value>LandingViewController.txtFieldClubName</value>
-      </entry>
-      <entry>
-         <key>ACCESSIBILITY</key>
-         <value>LandingViewController.txtFieldClubName</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTextField[1]</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
-         <value>XCUIElementTypeTextField</value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
+         <value>XCUIElementTypeButton</value>
       </entry>
       <entry>
          <key>ID</key>
-         <value>LandingViewController.txtFieldClubName</value>
+         <value>LandingViewController.connectBtn</value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeButton' AND label == 'CONNECT' AND name == 'LandingViewController.connectBtn'</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[1]</value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeButton' and @label = 'CONNECT' and @name = 'LandingViewController.connectBtn']</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**/XCUIElementTypeButton[`label == 'CONNECT' AND name == 'LandingViewController.connectBtn'`]</value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value>LandingViewController.connectBtn</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value>LandingViewController.connectBtn</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

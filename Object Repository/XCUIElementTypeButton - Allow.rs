@@ -13,7 +13,7 @@
       <name>type</name>
       <type>Main</type>
       <value>XCUIElementTypeButton</value>
-      <webElementGuid>730f9bb0-80e4-40bd-9a81-262d7340a8b7</webElementGuid>
+      <webElementGuid>41cc54b3-9dc5-4712-9c51-6b50ef538dc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5d894349-0e87-44de-890a-fc1636c7eed7</webElementGuid>
+      <webElementGuid>08cde97c-3c0a-4044-9902-0809d6a22222</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4ea9bef9-94d6-4169-870a-9e937f83cc1d</webElementGuid>
+      <webElementGuid>9d08089c-18b6-4903-b12f-d6d10849e4d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>height</name>
       <type>Main</type>
       <value>90.0</value>
-      <webElementGuid>81bc000b-39f7-4026-9fc5-22cc5267c4e3</webElementGuid>
+      <webElementGuid>20eec274-d251-44ff-b11a-070563c0ad01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>23a5d241-3784-46cd-bb79-4a1497b90905</webElementGuid>
+      <webElementGuid>c6e41942-30bb-4d52-bd77-b33db6e86d91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>label</name>
       <type>Main</type>
       <value>Allow</value>
-      <webElementGuid>e5c399e3-a649-4934-80b5-30eb94e99cdd</webElementGuid>
+      <webElementGuid>aedf78c2-1632-4bca-8dcd-8f9df1f0466f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Allow</value>
-      <webElementGuid>cd6ca3d0-65f2-4da6-b06f-929ab68e0137</webElementGuid>
+      <webElementGuid>500db2af-6481-4b23-bb9d-e2aab04e93db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>traits</name>
       <type>Main</type>
       <value>Button</value>
-      <webElementGuid>8579d739-33fa-4da0-b705-275d979409b3</webElementGuid>
+      <webElementGuid>9c76fb15-caa6-44a3-b2bf-47b3764a1f90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,23 +77,23 @@
       <name>width</name>
       <type>Main</type>
       <value>270.0</value>
-      <webElementGuid>8f3963e3-dda1-4955-b756-7f412795a962</webElementGuid>
+      <webElementGuid>dced105d-405e-440d-be9c-ab04c3102206</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>394.0</value>
-      <webElementGuid>1c911a60-765f-4e05-bd69-60bdd30c6953</webElementGuid>
+      <value>402.0</value>
+      <webElementGuid>9546db96-5736-47d8-86c5-f9991c68d8f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>988.0</value>
-      <webElementGuid>a0f12fac-185e-421b-aae9-4f815b1bf514</webElementGuid>
+      <value>1012.0</value>
+      <webElementGuid>a1283b37-b22d-4b6f-9c52-5ab93f4f53f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,56 +101,52 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[17]/XCUIElementTypeOther[3]/XCUIElementTypeAlert[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeScrollView[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[3]/XCUIElementTypeButton[1]</value>
-      <webElementGuid>4ba56725-414e-460b-9003-451ec15dc7e4</webElementGuid>
+      <webElementGuid>3ad3919d-76d4-4503-b028-73b6ab122d88</webElementGuid>
    </webElementProperties>
    <locator>//*[@type = 'XCUIElementTypeButton' and @label = 'Allow' and @name = 'Allow']</locator>
    <locatorCollection>
       <entry>
-         <key>ACCESSIBILITY</key>
-         <value>Allow</value>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ID</key>
-         <value>Allow</value>
+         <key>CUSTOM</key>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
          <value>**/XCUIElementTypeButton[`label == 'Allow' AND name == 'Allow'`]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[17]/XCUIElementTypeOther[3]/XCUIElementTypeAlert[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeScrollView[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[3]/XCUIElementTypeButton[1]</value>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeButton' AND label == 'Allow' AND name == 'Allow'</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
       </entry>
       <entry>
          <key>ATTRIBUTES</key>
          <value>//*[@type = 'XCUIElementTypeButton' and @label = 'Allow' and @name = 'Allow']</value>
       </entry>
       <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeButton' AND label == 'Allow' AND name == 'Allow'</value>
+         <key>NAME</key>
+         <value>Allow</value>
       </entry>
       <entry>
-         <key>CUSTOM</key>
-         <value></value>
+         <key>ACCESSIBILITY</key>
+         <value>Allow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[17]/XCUIElementTypeOther[3]/XCUIElementTypeAlert[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeScrollView[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[3]/XCUIElementTypeButton[1]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
          <value>XCUIElementTypeButton</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>ANDROID_VIEWTAG</key>
-         <value></value>
       </entry>
       <entry>
-         <key>NAME</key>
+         <key>ID</key>
          <value>Allow</value>
       </entry>
    </locatorCollection>

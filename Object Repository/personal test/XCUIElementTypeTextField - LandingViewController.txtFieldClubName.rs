@@ -13,7 +13,7 @@
       <name>type</name>
       <type>Main</type>
       <value>XCUIElementTypeTextField</value>
-      <webElementGuid>55c7e991-bf4c-40f2-bcdf-a7a3011ad0dc</webElementGuid>
+      <webElementGuid>a37601ad-c23a-4eae-8458-88af763582e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>df754dbc-9cd8-45d8-8444-a064fe0395a0</webElementGuid>
+      <webElementGuid>03860504-080a-422f-83a7-3850bd9f6ecf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b1d1ec9c-1bdc-4356-8ec5-83ff0e47bc13</webElementGuid>
+      <webElementGuid>ffdb9daa-d279-4b01-b060-6f07c7dd7145</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>height</name>
       <type>Main</type>
       <value>90.0</value>
-      <webElementGuid>8deefa9e-361b-4381-90b8-a9da1738d4a2</webElementGuid>
+      <webElementGuid>ea14656a-2e55-4599-8092-c9529c347aa9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>db62c7c7-e306-43f9-99b8-7c305e7d4964</webElementGuid>
+      <webElementGuid>0c4e4692-044c-4a08-a748-40a7b4d9f083</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>LandingViewController.txtFieldClubName</value>
-      <webElementGuid>01aa8d61-3474-4efc-94cb-4d7191b00451</webElementGuid>
+      <webElementGuid>418196e0-6263-4e3e-a6ee-c1009b795fb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholderValue</name>
       <type>Main</type>
       <value>Club Id</value>
-      <webElementGuid>f5052830-211f-4d5f-8014-194fea8c0d66</webElementGuid>
+      <webElementGuid>8e0c03e2-9529-4a15-909a-5e18f2f3427e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Club Id</value>
-      <webElementGuid>ff554112-fb48-4870-ad05-61bf7a148f84</webElementGuid>
+      <webElementGuid>e39d2027-44b6-4926-a443-7fd1a195a2f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>width</name>
       <type>Main</type>
       <value>744.0</value>
-      <webElementGuid>6105b6e1-cfd1-4ac5-887e-77d0fd477e32</webElementGuid>
+      <webElementGuid>6671ed51-c3f9-4da3-8666-bae21d95de43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>x</name>
       <type>Main</type>
       <value>30.0</value>
-      <webElementGuid>d2ecbe57-c9a3-4fbb-b777-8e65f586ecfc</webElementGuid>
+      <webElementGuid>78cb2db3-1748-457d-b118-ed5c57434e2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>y</name>
       <type>Main</type>
       <value>1404.0</value>
-      <webElementGuid>9cf9e3cb-71de-4fa1-9e0e-f897fa9e5da4</webElementGuid>
+      <webElementGuid>be5d5d07-9f9c-4120-9cb2-a7c65e53383c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,53 +101,57 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTextField[1]</value>
-      <webElementGuid>8800e715-86a2-4cc9-b19a-d2d8de26700b</webElementGuid>
+      <webElementGuid>b95e9aa0-5b08-4da5-b264-c31580ee22c3</webElementGuid>
    </webElementProperties>
    <locator>//*[@type = 'XCUIElementTypeTextField' and @name = 'LandingViewController.txtFieldClubName' and @value = 'Club Id']</locator>
    <locatorCollection>
       <entry>
          <key>CUSTOM</key>
-      </entry>
-      <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value>**/XCUIElementTypeTextField[`name == 'LandingViewController.txtFieldClubName' AND value == 'Club Id'`]</value>
-      </entry>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeTextField' AND name == 'LandingViewController.txtFieldClubName' AND name == 'Club Id'</value>
+         <value></value>
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeTextField' and @name = 'LandingViewController.txtFieldClubName' and @value = 'Club Id']</value>
-      </entry>
-      <entry>
-         <key>NAME</key>
-         <value>LandingViewController.txtFieldClubName</value>
-      </entry>
-      <entry>
-         <key>ACCESSIBILITY</key>
-         <value>LandingViewController.txtFieldClubName</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTextField[1]</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
          <value>XCUIElementTypeTextField</value>
       </entry>
       <entry>
-         <key>ANDROID_VIEWTAG</key>
-      </entry>
-      <entry>
          <key>ID</key>
          <value>LandingViewController.txtFieldClubName</value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeTextField' AND name == 'LandingViewController.txtFieldClubName' AND name == 'Club Id'</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTextField[1]</value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeTextField' and @name = 'LandingViewController.txtFieldClubName' and @value = 'Club Id']</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**/XCUIElementTypeTextField[`name == 'LandingViewController.txtFieldClubName' AND value == 'Club Id'`]</value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value>LandingViewController.txtFieldClubName</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value>LandingViewController.txtFieldClubName</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

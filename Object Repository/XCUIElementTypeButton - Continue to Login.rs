@@ -13,7 +13,7 @@
       <name>type</name>
       <type>Main</type>
       <value>XCUIElementTypeButton</value>
-      <webElementGuid>affe00ae-9447-4399-a7c7-120470615a00</webElementGuid>
+      <webElementGuid>da61682c-bddd-41d2-bb81-6a6ddf137bdb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e08d8e2e-d052-4431-9da9-72e052cfb833</webElementGuid>
+      <webElementGuid>a8d0ecf6-f919-4160-84f1-3caeb8dfc2bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>80c1f3ff-d8fd-482e-8c44-f26d96638c35</webElementGuid>
+      <webElementGuid>d9c9aa1c-3dcf-47f3-9fb9-94db0901e007</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>height</name>
       <type>Main</type>
       <value>102.0</value>
-      <webElementGuid>a0d1ba96-6e26-45c3-afcc-076f796a01fb</webElementGuid>
+      <webElementGuid>d2bb554b-5e8c-481e-a9ec-46977660b203</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>index</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>b552ceb0-65d3-44f6-9246-442297dddd0b</webElementGuid>
+      <webElementGuid>d53134e9-0c54-45c1-96c7-7a3bac53cb47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>label</name>
       <type>Main</type>
       <value>Continue to Login</value>
-      <webElementGuid>8b6526f5-6851-4f67-8650-664f0ac549c4</webElementGuid>
+      <webElementGuid>337929fd-846d-4598-9c31-2e8fa6b11236</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Continue to Login</value>
-      <webElementGuid>03280b6c-215d-4a09-aaf2-a7002668eb83</webElementGuid>
+      <webElementGuid>90707110-6df8-4baf-8eb9-3f0bada80345</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,15 +69,15 @@
       <name>traits</name>
       <type>Main</type>
       <value>Button</value>
-      <webElementGuid>db98c924-b14e-4613-8a9d-2e0d4d134b13</webElementGuid>
+      <webElementGuid>f7a0bcaa-2f8c-434c-a35a-8beec28aed86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>722.0</value>
-      <webElementGuid>14b49ad9-28c2-4662-834a-621bd2e4d462</webElementGuid>
+      <value>740.0</value>
+      <webElementGuid>8e2afd74-4b52-47da-959d-57c81cd25fac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,15 +85,15 @@
       <name>x</name>
       <type>Main</type>
       <value>32.0</value>
-      <webElementGuid>0f9c2a4e-0b98-4aaf-8ebb-0ef40880c3df</webElementGuid>
+      <webElementGuid>fae72bef-627a-4493-8ea8-f10138f18433</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>1554.0</value>
-      <webElementGuid>9bac52d2-15ba-4764-bd9d-fb6ba7cbd899</webElementGuid>
+      <value>1516.0</value>
+      <webElementGuid>999973cd-d478-44ca-9b3b-f263149ba096</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,56 +101,52 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[1]</value>
-      <webElementGuid>f4776f63-34ed-4bc4-899f-c1c2b5cbc453</webElementGuid>
+      <webElementGuid>8d79835d-ce3b-49f5-a8cc-1f40985e7df5</webElementGuid>
    </webElementProperties>
    <locator>//*[@type = 'XCUIElementTypeButton' and @label = 'Continue to Login' and @name = 'Continue to Login']</locator>
    <locatorCollection>
       <entry>
-         <key>ACCESSIBILITY</key>
-         <value>Continue to Login</value>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ID</key>
-         <value>Continue to Login</value>
+         <key>CUSTOM</key>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
          <value>**/XCUIElementTypeButton[`label == 'Continue to Login' AND name == 'Continue to Login'`]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[1]</value>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeButton' AND label == 'Continue to Login' AND name == 'Continue to Login'</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
       </entry>
       <entry>
          <key>ATTRIBUTES</key>
          <value>//*[@type = 'XCUIElementTypeButton' and @label = 'Continue to Login' and @name = 'Continue to Login']</value>
       </entry>
       <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeButton' AND label == 'Continue to Login' AND name == 'Continue to Login'</value>
+         <key>NAME</key>
+         <value>Continue to Login</value>
       </entry>
       <entry>
-         <key>CUSTOM</key>
-         <value></value>
+         <key>ACCESSIBILITY</key>
+         <value>Continue to Login</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[1]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
          <value>XCUIElementTypeButton</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>ANDROID_VIEWTAG</key>
-         <value></value>
       </entry>
       <entry>
-         <key>NAME</key>
+         <key>ID</key>
          <value>Continue to Login</value>
       </entry>
    </locatorCollection>
