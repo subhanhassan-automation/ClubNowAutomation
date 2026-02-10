@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify manual configuration option for 2FA setup when unable to scan QR code</description>
+   <name>Verify Manual Configuration</name>
+   <tag>2FA, Authentication, Manual Setup</tag>
+   <comment>Test case to verify manual configuration flow for users unable to scan QR code</comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c5d6e7f-8a9b-0c1d-2e3f-4a5b6c7d8e9f</testCaseGuid>
+</TestCaseEntity>

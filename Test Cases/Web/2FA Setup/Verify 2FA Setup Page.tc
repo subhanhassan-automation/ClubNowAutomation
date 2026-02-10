@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify two-factor authentication setup page elements including QR code, instructions, and manual configuration option</description>
+   <name>Verify 2FA Setup Page</name>
+   <tag>2FA, Authentication, Security</tag>
+   <comment>Test case to verify 2FA setup page displays correctly with all required elements</comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d</testCaseGuid>
+</TestCaseEntity>
