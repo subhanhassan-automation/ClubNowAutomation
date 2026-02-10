@@ -35,11 +35,11 @@ Mobile.tap(findTestObject('Object Repository/Login/android.widget.Button - Sign 
 
 Mobile.tap(findTestObject('Object Repository/Login/android.widget.EditText (4)'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/Login/android.widget.EditText (5)'), '12345678')
+Mobile.sendKeys(findTestObject('Object Repository/Login/android.widget.EditText (5)'), '12345679')
 
 Mobile.tap(findTestObject('Object Repository/Login/android.widget.EditText (6)'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/Login/android.widget.EditText (7)'), '12345678')
+Mobile.sendKeys(findTestObject('Object Repository/Login/android.widget.EditText (7)'), '12345679')
 
 Mobile.tap(findTestObject('Object Repository/Login/android.widget.Button - Next'), 0)
 
