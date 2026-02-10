@@ -17,11 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('/Applications/nsplus.app', true)
+Mobile.startApplication('/Users/muhammadali/Downloads/nsplus.app', true)
 
 Mobile.tap(findTestObject('Object Repository/XCUIElementTypeTextField - LandingViewController.txtFieldClubName'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeTextField - LandingViewController.txtFieldClubName'), 'cn30uat')
+Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeTextField - LandingViewController.txtFieldClubName'), 'aqdas')
 
 Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - LandingViewController.connectBtn'), 0)
 
@@ -29,11 +29,15 @@ Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Continue to
 
 Mobile.tap(findTestObject('Object Repository/XCUIElementTypeTextField - Member Number'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeTextField - Member Number'), '10007')
+Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeTextField - Member Number'), '10124')
+
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeSecureTextField - Password'), 0)
 
 Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeSecureTextField - Password'), '123456')
 
 Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Sign In'), 0)
 
 Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Allow'), 0)
+
+Mobile.closeApplication()
 

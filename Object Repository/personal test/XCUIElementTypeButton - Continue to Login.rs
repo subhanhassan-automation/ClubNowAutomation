@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>XCUIElementTypeButton - LandingViewController.connectBtn</name>
+   <name>XCUIElementTypeButton - Continue to Login</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -13,7 +13,7 @@
       <name>type</name>
       <type>Main</type>
       <value>XCUIElementTypeButton</value>
-      <webElementGuid>65f27dcd-eae8-49b8-82c1-ebf1e8608ee2</webElementGuid>
+      <webElementGuid>d1e1e25a-5bbb-4753-9000-5877cfc96c34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>50196cb7-dad5-44a0-af07-ffbb24511536</webElementGuid>
+      <webElementGuid>6a166289-f7cd-449c-a823-b5bbb3b09969</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c6b49a18-740f-4eed-8b8c-c8d64df2fe18</webElementGuid>
+      <webElementGuid>15a114a8-ae96-4f54-b71c-01b2b44a85e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,31 +37,31 @@
       <name>height</name>
       <type>Main</type>
       <value>102.0</value>
-      <webElementGuid>27fcd827-487a-48cb-9abf-c75aeff79de1</webElementGuid>
+      <webElementGuid>fa8edf39-d908-4285-ab9b-2c64f0fad9d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>98a65d3c-91b8-4da7-a04b-f6a5a967b00a</webElementGuid>
+      <value>2</value>
+      <webElementGuid>b94ad39c-8386-46a8-aaa1-630b8bf02373</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>label</name>
       <type>Main</type>
-      <value>CONNECT</value>
-      <webElementGuid>0b68b2e6-8d51-4806-a09a-307bd3b7d2fc</webElementGuid>
+      <value>Continue to Login</value>
+      <webElementGuid>16902cac-a301-46b8-86d5-659ea8b5f19f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>LandingViewController.connectBtn</value>
-      <webElementGuid>45de51be-6c70-4925-8ecd-5065b80f085f</webElementGuid>
+      <value>Continue to Login</value>
+      <webElementGuid>56d12e87-82be-423e-b16c-fdcd0627e85e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,85 +69,89 @@
       <name>traits</name>
       <type>Main</type>
       <value>Button</value>
-      <webElementGuid>398b1bf0-edf7-462d-b17b-b5c1950d81b6</webElementGuid>
+      <webElementGuid>f24415f2-563c-440b-a9bf-4998341ab8b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>744.0</value>
-      <webElementGuid>52fd7d5b-c563-4ea7-965a-228a05956d12</webElementGuid>
+      <value>740.0</value>
+      <webElementGuid>e76e784a-cb24-4e01-a9c3-36bed58681cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>30.0</value>
-      <webElementGuid>e1f614e1-8708-4a61-a1d5-1c1c88dc9c54</webElementGuid>
+      <value>32.0</value>
+      <webElementGuid>a150c4a6-76d5-47a0-a1ef-46024224abab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>1064.0</value>
-      <webElementGuid>340bd32f-33e5-4626-9c4b-187dae521f1a</webElementGuid>
+      <value>1516.0</value>
+      <webElementGuid>cbe8cce8-c2b5-47a7-9d8d-3489a8e08cdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[1]</value>
-      <webElementGuid>2b9db68a-d4bc-4f4e-bf56-a5273834d9b3</webElementGuid>
+      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[1]</value>
+      <webElementGuid>57f934e3-7339-4e6a-92eb-a4de7b8bc915</webElementGuid>
    </webElementProperties>
-   <locator>//*[@type = 'XCUIElementTypeButton' and @label = 'CONNECT' and @name = 'LandingViewController.connectBtn']</locator>
+   <locator>//*[@type = 'XCUIElementTypeButton' and @label = 'Continue to Login' and @name = 'Continue to Login']</locator>
    <locatorCollection>
       <entry>
          <key>CUSTOM</key>
-      </entry>
-      <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value>**/XCUIElementTypeButton[`label == 'CONNECT' AND name == 'LandingViewController.connectBtn'`]</value>
-      </entry>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeButton' AND label == 'CONNECT' AND name == 'LandingViewController.connectBtn'</value>
+         <value></value>
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeButton' and @label = 'CONNECT' and @name = 'LandingViewController.connectBtn']</value>
-      </entry>
-      <entry>
-         <key>NAME</key>
-         <value>LandingViewController.connectBtn</value>
-      </entry>
-      <entry>
-         <key>ACCESSIBILITY</key>
-         <value>LandingViewController.connectBtn</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[1]</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
          <value>XCUIElementTypeButton</value>
       </entry>
       <entry>
-         <key>ANDROID_VIEWTAG</key>
+         <key>ID</key>
+         <value>Continue to Login</value>
       </entry>
       <entry>
-         <key>ID</key>
-         <value>LandingViewController.connectBtn</value>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeButton' AND label == 'Continue to Login' AND name == 'Continue to Login'</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[1]</value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeButton' and @label = 'Continue to Login' and @name = 'Continue to Login']</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**/XCUIElementTypeButton[`label == 'Continue to Login' AND name == 'Continue to Login'`]</value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value>Continue to Login</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value>Continue to Login</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

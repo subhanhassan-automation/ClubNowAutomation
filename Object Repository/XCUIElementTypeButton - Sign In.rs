@@ -13,7 +13,7 @@
       <name>type</name>
       <type>Main</type>
       <value>XCUIElementTypeButton</value>
-      <webElementGuid>b0bbc88c-2ae2-49b2-8105-674418c88930</webElementGuid>
+      <webElementGuid>0e1176bf-20d3-4a6e-b848-c44cff11d28a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>cb4e14b1-1fbd-42e5-afce-f96b5ed74bca</webElementGuid>
+      <webElementGuid>35131331-d11f-468f-84af-1b8a51cd3878</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>94d9becf-3281-458b-84de-cfc96a0153d6</webElementGuid>
+      <webElementGuid>5e1843d8-826a-4d1e-8ca1-082faeab384a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>height</name>
       <type>Main</type>
       <value>102.0</value>
-      <webElementGuid>7bf1c453-3b9f-4f55-a2f4-f0b23d030fd9</webElementGuid>
+      <webElementGuid>df370145-6cda-4d94-af63-13a3f810da3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>35f40d18-2222-4c81-a4d4-aff3d52ffd4c</webElementGuid>
+      <webElementGuid>1246c125-6c46-4533-ad55-e8e12676c031</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>label</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>337af710-6cb6-4264-a873-41bbd4c6ef36</webElementGuid>
+      <webElementGuid>7de488cb-044c-4847-a003-aa1f71b1f396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>7766c3b8-8f19-438c-852b-273832f531aa</webElementGuid>
+      <webElementGuid>975d4adb-0c92-447a-8fa7-4a6359531a30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,15 +69,15 @@
       <name>traits</name>
       <type>Main</type>
       <value>Button</value>
-      <webElementGuid>4f25b613-2da7-4440-b9a4-7854fa68d0f5</webElementGuid>
+      <webElementGuid>f7e365f7-dc02-4f4f-a509-010b99bf70ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>722.0</value>
-      <webElementGuid>1ea29553-c230-482d-b9cd-3b3e747f7268</webElementGuid>
+      <value>740.0</value>
+      <webElementGuid>415a00a6-6146-4dfd-a9f9-3251654c62dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,15 +85,15 @@
       <name>x</name>
       <type>Main</type>
       <value>32.0</value>
-      <webElementGuid>7b6076e2-b0ea-4829-8383-a2cc7ca7e62f</webElementGuid>
+      <webElementGuid>34db11d3-f106-4dee-93bd-ca2d5562e700</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>794.0</value>
-      <webElementGuid>e49898a7-6c8c-40f7-8510-1a673db9fb8a</webElementGuid>
+      <value>786.0</value>
+      <webElementGuid>f3865c95-7853-4cbb-989b-b12802f0cfe0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,56 +101,52 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[4]/XCUIElementTypeButton[1]</value>
-      <webElementGuid>570dd9fc-fc71-48cf-971f-fe2a98bcec57</webElementGuid>
+      <webElementGuid>277e2666-a401-4466-87b5-371c0196d4ee</webElementGuid>
    </webElementProperties>
    <locator>//*[@type = 'XCUIElementTypeButton' and @label = 'Sign In' and @name = 'Sign In']</locator>
    <locatorCollection>
       <entry>
-         <key>ACCESSIBILITY</key>
-         <value>Sign In</value>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ID</key>
-         <value>Sign In</value>
+         <key>CUSTOM</key>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
          <value>**/XCUIElementTypeButton[`label == 'Sign In' AND name == 'Sign In'`]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[4]/XCUIElementTypeButton[1]</value>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeButton' AND label == 'Sign In' AND name == 'Sign In'</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
       </entry>
       <entry>
          <key>ATTRIBUTES</key>
          <value>//*[@type = 'XCUIElementTypeButton' and @label = 'Sign In' and @name = 'Sign In']</value>
       </entry>
       <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeButton' AND label == 'Sign In' AND name == 'Sign In'</value>
+         <key>NAME</key>
+         <value>Sign In</value>
       </entry>
       <entry>
-         <key>CUSTOM</key>
-         <value></value>
+         <key>ACCESSIBILITY</key>
+         <value>Sign In</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[4]/XCUIElementTypeButton[1]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
          <value>XCUIElementTypeButton</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>ANDROID_VIEWTAG</key>
-         <value></value>
       </entry>
       <entry>
-         <key>NAME</key>
+         <key>ID</key>
          <value>Sign In</value>
       </entry>
    </locatorCollection>
