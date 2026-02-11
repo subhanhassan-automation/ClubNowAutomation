@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Adnan TC</name>
+   <name>SMC-27633</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>325e6780-51fa-4e3f-ae77-399ed924b4d6</testCaseGuid>
+   <testCaseGuid>62f208c0-74c8-4fae-80a5-5e7604854baf</testCaseGuid>
 </TestCaseEntity>

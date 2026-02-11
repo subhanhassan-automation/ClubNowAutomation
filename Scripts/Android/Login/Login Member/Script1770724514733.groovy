@@ -17,3 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Mobile.startApplication('D:\\ClubNow-Android.apk', true)
+
+Mobile.tap(findTestObject('Object Repository/android.webkit.WebView'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - Continue to Login (1)'), 0)
+
+Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText (5)'), '10124')
+
+Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText (6)'), '123456')
+
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - Sign In (1)'), 0)
+
