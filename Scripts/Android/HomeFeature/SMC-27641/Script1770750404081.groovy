@@ -17,3 +17,30 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Mobile.startApplication('D:\\ClubNow-Android.apk', true)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - Continue to Login (5)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.view.View - Login to your Account user icon Member Number lock icon Password toggle password visibility Forgot Password Sign In help icon Need Help Try Login Instructions Are you a New Member Sign me Please'), 
+    0)
+
+Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText (18)'), '10124')
+
+Mobile.tap(findTestObject('Object Repository/android.widget.EditText (19)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.EditText (20)'), 0)
+
+Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText (20)'), '123456')
+
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - Sign In (5)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.LinearLayout (4)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.LinearLayout (5)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (10)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.view.View (4)'), 0)
+
+Mobile.closeApplication()
+
