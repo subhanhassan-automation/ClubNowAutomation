@@ -17,29 +17,26 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+assert true
+
 Mobile.startApplication('D:\\Tools\\GIT\\CN30EURL.apk', true)
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Continue to Login'), 0)
+Mobile.tap(findTestObject('Object Repository/Loginn/android.webkit.WebView'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText'), 0)
+Mobile.tap(findTestObject('Object Repository/Loginn/android.widget.Button - Continue to Login'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (1)'), '1')
+Mobile.tap(findTestObject('Object Repository/Loginn/android.widget.EditText'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText (2)'), 0)
+Mobile.sendKeys(findTestObject('Object Repository/Loginn/android.widget.EditText (1)'), '67890')
 
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (3)'), '123456')
+Mobile.tap(findTestObject('Object Repository/Loginn/android.widget.EditText (2)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Sign In'), 0)
+Mobile.sendKeys(findTestObject('Object Repository/Loginn/android.widget.EditText (3)'), '142536789')
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText (4)'), 0)
+Mobile.tap(findTestObject('Object Repository/Loginn/android.widget.Button - Sign In'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (5)'), '12345678')
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText (6)'), 0)
-
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (7)'), '12345678')
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Next'), 0)
+Mobile.verifyElementText(findTestObject('Object Repository/Loginn/android.widget.TextView - Authentication failed. Please try again'), 
+    'Authentication failed. Please try again.')
 
 Mobile.closeApplication()
 
