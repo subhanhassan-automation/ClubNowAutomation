@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Rerouting to Menu Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c3ffa20f-20a4-4692-b259-cd4ccf3f8ca2</testCaseGuid>
+</TestCaseEntity>
