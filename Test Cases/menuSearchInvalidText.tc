@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>menuSearchInvalidText</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9a9f13d-4f24-4ca3-8725-e45f6e8e067d</testCaseGuid>
+</TestCaseEntity>

@@ -17,29 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('D:\\APK\\ClubNow-Android.apk', true)
+WebUI.callTestCase(findTestCase('Android/Login Member'), [:], FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - Continue to Login'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Menu'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText'), '10007')
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Member Statement'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText (1)'), '123456')
-
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - Sign In'), 0)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.ImageView'), 0)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - Events Catalogue'), 0)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Yoga with Yogesh - Series'), 0)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - Choose Days  Times'), 0)
-
-Mobile.tap(findTestObject('continueToLogin'), 1800)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - Create Reservation'), 0)
-
-Mobile.takeScreenshot('C:\\Users\\EHSANH~1\\AppData\\Local\\Temp\\screenshot16689980727093340990.png')
+Mobile.verifyElementText(findTestObject('Object Repository/android.widget.TextView - Member Statement (1)'), 'Member Statement')
 
 Mobile.closeApplication()
 
