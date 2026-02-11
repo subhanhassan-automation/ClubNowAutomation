@@ -9,6 +9,9 @@ Libs
 output
 
 !output/.gitkeep
+
+Northstar.prj
+
 build
 
 .classpath
