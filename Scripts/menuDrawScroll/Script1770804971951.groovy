@@ -17,15 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('D:\\APK\\ClubNow-Android.apk', true)
+WebUI.callTestCase(findTestCase('Android/Login Member'), [:], FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tap(findTestObject('Object Repository/android.webkit.WebView'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Menu (3)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - Continue to Login (1)'), 0)
+Mobile.waitForElementPresent(findTestObject('Object Repository/android.widget.TextView - Member Information'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText (5)'), '10124')
+Mobile.swipe(540, 400, 540, 1600)
 
-Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText (6)'), '123456')
+Mobile.scrollToText('My Account')
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - Sign In (1)'), 0)
+Mobile.scrollToText('Employee Chats')
+
+Mobile.closeApplication()
 
