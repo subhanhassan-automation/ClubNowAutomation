@@ -19,27 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('D:\\Tools\\GIT\\CN30EURL.apk', true)
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Continue to Login'), 0)
+Mobile.tap(findTestObject('Object Repository/Test Cases/android.webkit.WebView (2)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText'), 0)
+Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Continue to Login (4)'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (1)'), '1')
+Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.TextView - Forgot Password (2)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText (2)'), 0)
-
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (3)'), '123456')
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Sign In'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText (4)'), 0)
-
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (5)'), '12345678')
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText (6)'), 0)
-
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (7)'), '12345678')
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Next'), 0)
+Mobile.verifyElementText(findTestObject('Object Repository/Test Cases/android.widget.TextView - Forgot Password (3)'), 'Forgot Password')
 
 Mobile.closeApplication()
 

@@ -7,14 +7,14 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>'123456'</initValue>
-      <name>loginPassword</name>
+      <name>loginUsername</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'1'</initValue>
-      <name>loginUsername</name>
+      <name>loginPassword</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>

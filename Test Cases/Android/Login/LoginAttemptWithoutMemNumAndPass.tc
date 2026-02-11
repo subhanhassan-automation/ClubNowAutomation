@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginAttemptWithoutMemNumAndPass</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>856575be-0afc-4495-8254-aa1d549bdb40</testCaseGuid>
+</TestCaseEntity>
