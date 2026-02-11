@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>home</name>
+   <name>menuSearchInvalidText</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>545d886d-8602-4196-b56e-45c2a16b2d45</testCaseGuid>
+   <testCaseGuid>f9a9f13d-4f24-4ca3-8725-e45f6e8e067d</testCaseGuid>
 </TestCaseEntity>

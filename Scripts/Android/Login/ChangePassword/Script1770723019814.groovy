@@ -23,11 +23,11 @@ Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - 
 
 Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (1)'), '${GlobalVariable.loginUsername}')
+Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (1)'), '1')
 
 Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText (2)'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (3)'), '${GlobalVariable.loginPassword}')
+Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (3)'), '123456')
 
 Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Sign In'), 0)
 
