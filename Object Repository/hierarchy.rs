@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hierarchy</value>
-      <webElementGuid>d928e8c5-9597-4b3f-89f2-282eae1564a7</webElementGuid>
+      <webElementGuid>a353360c-a11b-4020-895b-7e6d2d2151bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,15 +21,15 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c1542f78-86ba-4d04-bece-148cd70d2f79</webElementGuid>
+      <webElementGuid>54b2157b-2e0e-4586-bfc8-78f9e0cbcaed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>3088</value>
-      <webElementGuid>e969c864-dfc6-4899-804b-494a85475ed0</webElementGuid>
+      <value>2400</value>
+      <webElementGuid>97282278-9bbe-4831-9cf7-4899d37f3d02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>rotation</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>6e458245-0808-489d-b009-df95d19e73cf</webElementGuid>
+      <webElementGuid>60c89b32-0b33-492b-adc9-6c5b3f294cde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>1440</value>
-      <webElementGuid>d4cc3dfb-486b-4508-9f4e-6f29d2d1b80b</webElementGuid>
+      <value>1080</value>
+      <webElementGuid>56b5c4f6-4b32-4e84-ae2a-c990fe0eed33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,29 +53,33 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy</value>
-      <webElementGuid>1640fb95-3a72-4e2a-9f70-93093127e47d</webElementGuid>
+      <webElementGuid>b004eb92-f679-41d1-bf5b-a4a281b20f63</webElementGuid>
    </webElementProperties>
    <locator>//*[@class = 'hierarchy']</locator>
    <locatorCollection>
       <entry>
-         <key>ANDROID_VIEWTAG</key>
-         <value></value>
+         <key>ID</key>
       </entry>
       <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@class = 'hierarchy']</value>
+         <key>IMAGE</key>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//hierarchy</value>
       </entry>
       <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value></value>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().className(&quot;hierarchy&quot;)</value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@class = 'hierarchy']</value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
@@ -83,27 +87,15 @@
       </entry>
       <entry>
          <key>NAME</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value></value>
       </entry>
       <entry>
          <key>CUSTOM</key>
-         <value></value>
       </entry>
       <entry>
-         <key>ID</key>
-         <value></value>
+         <key>ANDROID_VIEWTAG</key>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;hierarchy&quot;)</value>
+         <key>IOS_PREDICATE_STRING</key>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
