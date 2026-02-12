@@ -11,15 +11,7 @@
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>10.4.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-<<<<<<< HEAD
    <projectFileLocation>D:\Tools\cvs\ClubNowAutomation\ClubNowAutomation\Northstar.prj</projectFileLocation>
-=======
-<<<<<<< HEAD
-   <projectFileLocation>D:\club\ClubNowAutomation-2\Northstar.prj</projectFileLocation>
-=======
-   <projectFileLocation>D:\Tools\tools\ClubNowAutomation\Northstar.prj</projectFileLocation>
->>>>>>> branch 'main' of https://github.com/subhanhassan-automation/ClubNowAutomation.git
->>>>>>> branch 'main' of https://github.com/subhanhassan-automation/ClubNowAutomation.git
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
