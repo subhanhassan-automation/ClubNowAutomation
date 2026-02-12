@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ContinueToLoginAfterReinstall</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>500a2a18-ce36-4465-9f32-493633276618</testCaseGuid>
+</TestCaseEntity>
