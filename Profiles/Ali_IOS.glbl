@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>default</name>
+   <name>Ali_IOS</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'/Users/muhammadali/Downloads/ClubNow-Android.apk'</initValue>
+      <initValue>''</initValue>
       <name>APP_PATH</name>
-      <protected>false</protected>
+      <protected>true</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

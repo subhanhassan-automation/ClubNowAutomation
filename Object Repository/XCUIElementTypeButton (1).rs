@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>XCUIElementTypeButton - MenuInactive</name>
+   <name>XCUIElementTypeButton (1)</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -13,7 +13,7 @@
       <name>type</name>
       <type>Main</type>
       <value>XCUIElementTypeButton</value>
-      <webElementGuid>2a2cf395-424a-40c1-941b-4a34560e5480</webElementGuid>
+      <webElementGuid>a7b5126b-2359-45d2-87c7-2913f2ffe1af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>866d49ba-bf40-41c4-b29b-d9df6d8f18f1</webElementGuid>
+      <webElementGuid>34f75546-ad26-4a3e-b3b6-b76734bf56b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,15 +29,15 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>01ac7a77-0380-4af4-a500-c52053ba4d62</webElementGuid>
+      <webElementGuid>bfe24137-2593-46e9-8646-4aa793f87828</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>80.0</value>
-      <webElementGuid>308ae98a-fc3b-4322-8615-8f8234c120f0</webElementGuid>
+      <value>68.0</value>
+      <webElementGuid>77b167e1-f857-427d-b409-f1f1d006c4f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,23 +45,7 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>75427427-d9f2-4051-9edb-8f635708264c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>label</name>
-      <type>Main</type>
-      <value>MenuInactive</value>
-      <webElementGuid>45ced30c-1fb2-400b-88a1-fa8058916f37</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>MenuInactive</value>
-      <webElementGuid>a3843458-b552-42c4-be83-6edd67f95945</webElementGuid>
+      <webElementGuid>4cb5f5e0-8326-4f55-8814-5343c5986e69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,23 +53,23 @@
       <name>traits</name>
       <type>Main</type>
       <value>Button</value>
-      <webElementGuid>9a745e6a-6f6d-4f87-80a9-df5a9259a5a5</webElementGuid>
+      <webElementGuid>8827ae16-d449-4aa3-92fc-44317ac0de52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>82.0</value>
-      <webElementGuid>e1d34ded-6736-4ffd-a5ac-510f0167763b</webElementGuid>
+      <value>60.0</value>
+      <webElementGuid>2f09bc35-2871-407a-8449-fc2ee2549798</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>682.0</value>
-      <webElementGuid>ae3c17ed-6301-49b8-b49c-d245f9b76638</webElementGuid>
+      <value>372.0</value>
+      <webElementGuid>e13ab39e-e3b4-4d0e-b273-32b1bd251eec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,61 +77,65 @@
       <name>y</name>
       <type>Main</type>
       <value>1592.0</value>
-      <webElementGuid>e08b2a3c-b280-44cd-9d7b-f49c20f471a6</webElementGuid>
+      <webElementGuid>3d9ea2d1-e8dc-45f7-b3e5-3f144cb0621c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[5]/XCUIElementTypeButton[1]</value>
-      <webElementGuid>3ccc9b87-c64c-4fe5-a851-48762baeeda4</webElementGuid>
+      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[3]/XCUIElementTypeButton[1]</value>
+      <webElementGuid>ef367aa1-db65-423d-9279-686a1804176e</webElementGuid>
    </webElementProperties>
-   <locator>//*[@type = 'XCUIElementTypeButton' and @label = 'MenuInactive' and @name = 'MenuInactive']</locator>
+   <locator>//*[@type = 'XCUIElementTypeButton']</locator>
    <locatorCollection>
       <entry>
-         <key>CUSTOM</key>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[3]/XCUIElementTypeButton[1]</value>
       </entry>
       <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeButton' and @label = 'MenuInactive' and @name = 'MenuInactive']</value>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value></value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
-         <value>MenuInactive</value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[5]/XCUIElementTypeButton[1]</value>
+         <value></value>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
-         <value>**/XCUIElementTypeButton[`label == 'MenuInactive' AND name == 'MenuInactive'`]</value>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value></value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
          <value>XCUIElementTypeButton</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-      </entry>
-      <entry>
          <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeButton' AND label == 'MenuInactive' AND name == 'MenuInactive'</value>
+         <value>type == 'XCUIElementTypeButton'</value>
       </entry>
       <entry>
-         <key>NAME</key>
-         <value>MenuInactive</value>
-      </entry>
-      <entry>
-         <key>ID</key>
-         <value>MenuInactive</value>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeButton']</value>
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
+         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

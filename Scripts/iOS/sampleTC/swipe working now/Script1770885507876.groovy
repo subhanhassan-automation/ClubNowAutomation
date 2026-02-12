@@ -17,29 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('D:\\Tools\\GIT\\CN30EURL.apk', true)
+Mobile.startApplication('/Users/muhammadali/Downloads/nsplus.app', true)
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Continue to Login'), 0)
+WebUI.callTestCase(findTestCase('iOS/sampleTC/logIn'), [:], FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText'), 0)
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - MenuInactive'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (1)'), '${GlobalVariable.loginUsername}')
+Mobile.scrollToText('Change Password')
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText (2)'), 0)
-
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (3)'), '${GlobalVariable.APP_PATH}')
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Sign In'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText (4)'), 0)
-
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (5)'), '12345678')
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText (6)'), 0)
-
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (7)'), '12345678')
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Next'), 0)
-
-Mobile.closeApplication()
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeStaticText - Change Password'), 0)
 

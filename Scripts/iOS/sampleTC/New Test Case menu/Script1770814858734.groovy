@@ -17,29 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('D:\\Tools\\GIT\\CN30EURL.apk', true)
+Mobile.startApplication('/Users/muhammadali/Downloads/nsplus.app', true)
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Continue to Login'), 0)
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeOther'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText'), 0)
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - FeedsInactive'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (1)'), '${GlobalVariable.loginUsername}')
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - .See more'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText (2)'), 0)
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton (1)'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (3)'), '${GlobalVariable.APP_PATH}')
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Sign In'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText (4)'), 0)
-
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (5)'), '12345678')
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.EditText (6)'), 0)
-
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/android.widget.EditText (7)'), '12345678')
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Next'), 0)
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton (2)'), 0)
 
 Mobile.closeApplication()
 

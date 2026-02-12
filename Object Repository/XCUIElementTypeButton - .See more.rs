@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>XCUIElementTypeButton - MenuInactive</name>
+   <name>XCUIElementTypeButton - .See more</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -13,7 +13,7 @@
       <name>type</name>
       <type>Main</type>
       <value>XCUIElementTypeButton</value>
-      <webElementGuid>2a2cf395-424a-40c1-941b-4a34560e5480</webElementGuid>
+      <webElementGuid>38e18bc9-ddff-4116-b98e-146505aeabec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>866d49ba-bf40-41c4-b29b-d9df6d8f18f1</webElementGuid>
+      <webElementGuid>4256e023-e359-4376-abe6-5bc93ba6cb17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,39 +29,39 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>01ac7a77-0380-4af4-a500-c52053ba4d62</webElementGuid>
+      <webElementGuid>9ffe85be-2532-49c2-8f7c-9065b7c6aa49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>80.0</value>
-      <webElementGuid>308ae98a-fc3b-4322-8615-8f8234c120f0</webElementGuid>
+      <value>500.0</value>
+      <webElementGuid>e0be9f5a-1269-4b8c-ba38-ef5f069bcaec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>75427427-d9f2-4051-9edb-8f635708264c</webElementGuid>
+      <value>9</value>
+      <webElementGuid>c422a58c-3725-419e-bb9d-c724e795ccab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>label</name>
       <type>Main</type>
-      <value>MenuInactive</value>
-      <webElementGuid>45ced30c-1fb2-400b-88a1-fa8058916f37</webElementGuid>
+      <value>...See more</value>
+      <webElementGuid>7cd97fdf-11e7-4fca-ad31-62a268b3cc1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>MenuInactive</value>
-      <webElementGuid>a3843458-b552-42c4-be83-6edd67f95945</webElementGuid>
+      <value>...See more</value>
+      <webElementGuid>c41d1d4d-ec47-499b-9874-f41cb1497291</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,85 +69,89 @@
       <name>traits</name>
       <type>Main</type>
       <value>Button</value>
-      <webElementGuid>9a745e6a-6f6d-4f87-80a9-df5a9259a5a5</webElementGuid>
+      <webElementGuid>19e4d28e-ecd5-43d2-84cf-04405454785c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>82.0</value>
-      <webElementGuid>e1d34ded-6736-4ffd-a5ac-510f0167763b</webElementGuid>
+      <value>804.0</value>
+      <webElementGuid>f71edcfe-b1b6-4fe3-ba17-03af439a3f14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>682.0</value>
-      <webElementGuid>ae3c17ed-6301-49b8-b49c-d245f9b76638</webElementGuid>
+      <value>0.0</value>
+      <webElementGuid>2e73d15b-206c-4d17-9bb1-df8093b6d658</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>1592.0</value>
-      <webElementGuid>e08b2a3c-b280-44cd-9d7b-f49c20f471a6</webElementGuid>
+      <value>1192.0</value>
+      <webElementGuid>0155a726-687c-45e4-8868-786b6bbf7dcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[5]/XCUIElementTypeButton[1]</value>
-      <webElementGuid>3ccc9b87-c64c-4fe5-a851-48762baeeda4</webElementGuid>
+      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTable[1]/XCUIElementTypeCell[2]/XCUIElementTypeButton[6]</value>
+      <webElementGuid>f869a941-01af-4852-a879-d668915f1227</webElementGuid>
    </webElementProperties>
-   <locator>//*[@type = 'XCUIElementTypeButton' and @label = 'MenuInactive' and @name = 'MenuInactive']</locator>
+   <locator>//*[@type = 'XCUIElementTypeButton' and @label = '...See more' and @name = '...See more']</locator>
    <locatorCollection>
       <entry>
-         <key>CUSTOM</key>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTable[1]/XCUIElementTypeCell[2]/XCUIElementTypeButton[6]</value>
       </entry>
       <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeButton' and @label = 'MenuInactive' and @name = 'MenuInactive']</value>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value>...See more</value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
-         <value>MenuInactive</value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[5]/XCUIElementTypeButton[1]</value>
+         <value>...See more</value>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
-         <value>**/XCUIElementTypeButton[`label == 'MenuInactive' AND name == 'MenuInactive'`]</value>
+         <value>**/XCUIElementTypeButton[`label == '...See more' AND name == '...See more'`]</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>...See more</value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
          <value>XCUIElementTypeButton</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-      </entry>
-      <entry>
          <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeButton' AND label == 'MenuInactive' AND name == 'MenuInactive'</value>
+         <value>type == 'XCUIElementTypeButton' AND label == '...See more' AND name == '...See more'</value>
       </entry>
       <entry>
-         <key>NAME</key>
-         <value>MenuInactive</value>
-      </entry>
-      <entry>
-         <key>ID</key>
-         <value>MenuInactive</value>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeButton' and @label = '...See more' and @name = '...See more']</value>
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
+         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

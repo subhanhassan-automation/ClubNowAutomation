@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>XCUIElementTypeButton - MenuInactive</name>
+   <name>XCUIElementTypeButton - Change Password</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -13,7 +13,7 @@
       <name>type</name>
       <type>Main</type>
       <value>XCUIElementTypeButton</value>
-      <webElementGuid>2a2cf395-424a-40c1-941b-4a34560e5480</webElementGuid>
+      <webElementGuid>d1ffbf1d-163e-4811-af17-359507eb800b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>866d49ba-bf40-41c4-b29b-d9df6d8f18f1</webElementGuid>
+      <webElementGuid>e6517b90-8723-4c9b-aa78-8e4bef0bd59c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,39 +29,39 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>01ac7a77-0380-4af4-a500-c52053ba4d62</webElementGuid>
+      <webElementGuid>015a90f0-c705-4238-94f1-02105446f372</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>80.0</value>
-      <webElementGuid>308ae98a-fc3b-4322-8615-8f8234c120f0</webElementGuid>
+      <value>68.0</value>
+      <webElementGuid>2aec142f-f347-4f50-b952-76228b3bc3ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>75427427-d9f2-4051-9edb-8f635708264c</webElementGuid>
+      <value>50</value>
+      <webElementGuid>208c2d41-f0ef-4397-87c5-f051099cd337</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>label</name>
       <type>Main</type>
-      <value>MenuInactive</value>
-      <webElementGuid>45ced30c-1fb2-400b-88a1-fa8058916f37</webElementGuid>
+      <value>Change Password</value>
+      <webElementGuid>f9e51f1c-17e0-49aa-9309-f0d415a86227</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>MenuInactive</value>
-      <webElementGuid>a3843458-b552-42c4-be83-6edd67f95945</webElementGuid>
+      <value>Change Password</value>
+      <webElementGuid>a3d9561f-150d-4a9d-bcc9-f64a8090b800</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,85 +69,89 @@
       <name>traits</name>
       <type>Main</type>
       <value>Button</value>
-      <webElementGuid>9a745e6a-6f6d-4f87-80a9-df5a9259a5a5</webElementGuid>
+      <webElementGuid>bd36a61e-1ab8-4b93-8c94-d484dee9b28d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>82.0</value>
-      <webElementGuid>e1d34ded-6736-4ffd-a5ac-510f0167763b</webElementGuid>
+      <value>68.0</value>
+      <webElementGuid>47e04c6d-10df-4fe7-aef2-940c3f1910b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>682.0</value>
-      <webElementGuid>ae3c17ed-6301-49b8-b49c-d245f9b76638</webElementGuid>
+      <value>132.0</value>
+      <webElementGuid>a84bcb86-8769-470b-a9fa-da16f653d214</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>1592.0</value>
-      <webElementGuid>e08b2a3c-b280-44cd-9d7b-f49c20f471a6</webElementGuid>
+      <value>1202.0</value>
+      <webElementGuid>8b0a93f2-ad12-4248-a16a-3fee9b788768</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[5]/XCUIElementTypeButton[1]</value>
-      <webElementGuid>3ccc9b87-c64c-4fe5-a851-48762baeeda4</webElementGuid>
+      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeButton[25]</value>
+      <webElementGuid>8bb451c7-0624-4d52-91dc-ad7cecd8a3e6</webElementGuid>
    </webElementProperties>
-   <locator>//*[@type = 'XCUIElementTypeButton' and @label = 'MenuInactive' and @name = 'MenuInactive']</locator>
+   <locator>//*[@type = 'XCUIElementTypeButton' and @label = 'Change Password' and @name = 'Change Password']</locator>
    <locatorCollection>
       <entry>
-         <key>CUSTOM</key>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeButton[25]</value>
       </entry>
       <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeButton' and @label = 'MenuInactive' and @name = 'MenuInactive']</value>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value>Change Password</value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
-         <value>MenuInactive</value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[5]/XCUIElementTypeButton[1]</value>
+         <value>Change Password</value>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
-         <value>**/XCUIElementTypeButton[`label == 'MenuInactive' AND name == 'MenuInactive'`]</value>
+         <value>**/XCUIElementTypeButton[`label == 'Change Password' AND name == 'Change Password'`]</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>Change Password</value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
          <value>XCUIElementTypeButton</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-      </entry>
-      <entry>
          <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeButton' AND label == 'MenuInactive' AND name == 'MenuInactive'</value>
+         <value>type == 'XCUIElementTypeButton' AND label == 'Change Password' AND name == 'Change Password'</value>
       </entry>
       <entry>
-         <key>NAME</key>
-         <value>MenuInactive</value>
-      </entry>
-      <entry>
-         <key>ID</key>
-         <value>MenuInactive</value>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeButton' and @label = 'Change Password' and @name = 'Change Password']</value>
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
+         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
