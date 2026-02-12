@@ -28,3 +28,5 @@ build
 
 /appium.log
 /.DS_Store
+# Katalon internal android properties (local machine specific)
+settings/internal/com.kms.katalon.core.mobile.android.properties
