@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>menuDrawerChangesFromBO</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e94972e-1a83-4d30-a6ba-88a5583f44e8</testCaseGuid>
+</TestCaseEntity>
