@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifySettingsFeature</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79c99c6a-29da-44d3-a2e9-5acf7ea1f224</testCaseGuid>
+</TestCaseEntity>
