@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>close(X)ButtonFromMenuDrawer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8bebd4b4-d598-4926-9bf8-e4ea5514443d</testCaseGuid>
+</TestCaseEntity>
