@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LiferayMemRegWithEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11770cf6-6a07-4793-99bb-116b8d9517d4</testCaseGuid>
+</TestCaseEntity>
