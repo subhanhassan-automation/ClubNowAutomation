@@ -12,6 +12,8 @@ output
 build
 
 .classpath
+.settings/
+settings/internal/
 
 .project
 
