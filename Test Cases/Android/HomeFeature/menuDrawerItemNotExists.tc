@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>menuDrawerItemNotExists</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>235fdfd0-b017-4255-8114-56fba4898172</testCaseGuid>
+</TestCaseEntity>
