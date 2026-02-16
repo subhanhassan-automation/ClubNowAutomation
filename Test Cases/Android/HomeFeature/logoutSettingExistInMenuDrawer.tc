@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>logoutSettingExistInMenuDrawer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1544111b-c434-4b35-915a-3fafa4352e54</testCaseGuid>
+</TestCaseEntity>
