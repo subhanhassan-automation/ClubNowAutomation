@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>XCUIElementTypeButton - FeedsInactive</name>
+   <name>XCUIElementTypeButton - Like</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -13,7 +13,7 @@
       <name>type</name>
       <type>Main</type>
       <value>XCUIElementTypeButton</value>
-      <webElementGuid>fbec6f88-2ed2-458a-be96-e7617cb58a10</webElementGuid>
+      <webElementGuid>4151baeb-6965-4a45-bac3-5bdff136b13b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>7dee0d67-3fb0-43a7-81cf-9c1db2152bf0</webElementGuid>
+      <webElementGuid>a09df5d1-f478-437c-8a31-b450983fd958</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,39 +29,39 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>3a58a187-e9a1-436b-b548-ad213d1a4485</webElementGuid>
+      <webElementGuid>2bf7c5b3-a043-4ebb-a690-25f1c3e9f232</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>80.0</value>
-      <webElementGuid>c7dae4bc-7b1a-4473-9d48-cef009cf748f</webElementGuid>
+      <value>44.0</value>
+      <webElementGuid>01cefe71-25f4-4566-9f40-e02b2117d39d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>917c8336-5dc5-4f99-a055-1c8a20e9b4ae</webElementGuid>
+      <value>4</value>
+      <webElementGuid>d875a3cc-852c-4c17-9a9d-d4bd57856c95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>label</name>
       <type>Main</type>
-      <value>FeedsInactive</value>
-      <webElementGuid>1d775afd-893e-45e0-ab20-eab415e855d5</webElementGuid>
+      <value>Like</value>
+      <webElementGuid>720bde87-8ad8-4b03-810b-4826e4792889</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>FeedsInactive</value>
-      <webElementGuid>4caf0f2c-aabb-4175-b901-6d78027ebc53</webElementGuid>
+      <value>Like</value>
+      <webElementGuid>fcfd3510-0897-4eb2-8ed9-92f54fb9194f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,64 +69,81 @@
       <name>traits</name>
       <type>Main</type>
       <value>Button</value>
-      <webElementGuid>c49b4ee4-f5ac-445b-a761-b23d6e6fb233</webElementGuid>
+      <webElementGuid>0e08d38e-deea-426f-bacd-a417d2552b5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>82.0</value>
-      <webElementGuid>c520565f-5d3e-450e-a0b9-1b1d31995cd8</webElementGuid>
+      <value>242.0</value>
+      <webElementGuid>c3557c63-f499-4562-af6c-5b83389dfc34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>200.0</value>
-      <webElementGuid>6fa44c3c-e55e-4dee-be04-66bb73acce8c</webElementGuid>
+      <value>6.0</value>
+      <webElementGuid>9e1a0bf6-998d-4796-acde-1d443fc20d21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>1592.0</value>
-      <webElementGuid>5b044c0a-3dc6-46c2-b8db-249ef06b48a5</webElementGuid>
+      <value>494.0</value>
+      <webElementGuid>d8a5dd5a-1988-4cbd-b257-9baa4ce4cb43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeButton[1]</value>
-      <webElementGuid>e8496a30-3803-4ef1-a02e-797f74db7887</webElementGuid>
+      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTable[1]/XCUIElementTypeCell[2]/XCUIElementTypeButton[4]</value>
+      <webElementGuid>2814d63a-5506-4eb8-9a52-c36a804220b0</webElementGuid>
    </webElementProperties>
-   <locator>//*[@type = 'XCUIElementTypeButton' and @label = 'FeedsInactive' and @name = 'FeedsInactive']</locator>
+   <locator>//*[@type = 'XCUIElementTypeButton' and @label = 'Like' and @name = 'Like']</locator>
    <locatorCollection>
       <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value>**/XCUIElementTypeButton[`label == 'FeedsInactive' AND name == 'FeedsInactive'`]</value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeButton' and @label = 'Like' and @name = 'Like']</value>
       </entry>
       <entry>
          <key>ID</key>
-         <value>FeedsInactive</value>
-      </entry>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeButton' AND label == 'FeedsInactive' AND name == 'FeedsInactive'</value>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeButton' and @label = 'FeedsInactive' and @name = 'FeedsInactive']</value>
+         <value>Like</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeButton[1]</value>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTable[1]/XCUIElementTypeCell[2]/XCUIElementTypeButton[4]</value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value>Like</value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeButton' AND label == 'Like' AND name == 'Like'</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value>Like</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**/XCUIElementTypeButton[`label == 'Like' AND name == 'Like'`]</value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
@@ -134,20 +151,7 @@
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
-      </entry>
-      <entry>
-         <key>NAME</key>
-         <value>FeedsInactive</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-      </entry>
-      <entry>
-         <key>ACCESSIBILITY</key>
-         <value>FeedsInactive</value>
-      </entry>
-      <entry>
-         <key>CUSTOM</key>
+         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
