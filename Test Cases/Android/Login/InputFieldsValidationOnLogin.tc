@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InputFieldsValidationOnLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e917ac1d-49c3-49ea-87e4-3d0b7191416e</testCaseGuid>
+</TestCaseEntity>
