@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>keyboardDisappeardOnTapOutside</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c41bc0d0-1102-44ed-8bb3-06b13f99fff9</testCaseGuid>
+</TestCaseEntity>

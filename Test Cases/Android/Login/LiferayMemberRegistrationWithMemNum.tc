@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LiferayMemberRegistrationWithMemNum</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1605bc26-83f3-4ba8-a731-a87cab39589d</testCaseGuid>
+</TestCaseEntity>
