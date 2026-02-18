@@ -2,7 +2,7 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.model.FailureHandling as FailureHandling
 
-Mobile.startApplication('D:\\APK\\ClubNow-Android.apk', true)
+Mobile.startApplication('D:\\ClubNow-Android.apk', true)
 
 Mobile.tap(findTestObject('Object Repository/Test Cases/android.webkit.WebView (6)'), 0)
 
@@ -21,7 +21,8 @@ if (hintText.equalsIgnoreCase('Member Number')) {
 
     Mobile.tap(findTestObject('Object Repository/android.widget.Button - Sign In (1)'), 0)
 
-    println('Logged in using Member Number') // Email Login
+    println('Logged in using Member Number' // Email Login
+        )
 } else if (hintText.equalsIgnoreCase('Email Address')) {
     Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText (5)'), 'test@globalnorthstar.com')
 
