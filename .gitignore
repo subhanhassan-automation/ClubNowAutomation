@@ -1,29 +1,38 @@
-.gradle
-
-bin
-
-Reports
-
-Libs
-
-output
-
+# ========================
+# Katalon local files
+# ========================
 Northstar.prj
+.settings/
+settings/internal/
 
-!output/.gitkeep
-build
+# ========================
+# Build and auto-generated
+# ========================
+bin/
+Libs/
+build/
+output/
+Reports/
 
-.classpath
+# ========================
+# Logs
+# ========================
+*.log
+appium_error.log
 
-.project
+# ========================
+# macOS
+# ========================
+.DS_Store
 
+# ========================
+# IDE / cache
+# ========================
+.gradle
 .cache
-/bin/
-/Libs/
-/.settings/
-/.classpath
+.classpath
+.project
 .svn/
-.cache/
 
-/appium.log
-/.DS_Store
+# Keep output folder
+!output/.gitkeep
