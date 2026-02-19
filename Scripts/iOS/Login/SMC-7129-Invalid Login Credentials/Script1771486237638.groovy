@@ -31,5 +31,8 @@ Mobile.sendKeys(findTestObject('Object Repository/Test Cases/XCUIElementTypeSecu
 
 Mobile.tap(findTestObject('Object Repository/Test Cases/XCUIElementTypeButton - Sign In'), 0)
 
+Mobile.verifyElementExist(findTestObject('Object Repository/Test Cases/XCUIElementTypeStaticText - Authentication failed. Please try again'), 
+    0)
+
 Mobile.closeApplication()
 
