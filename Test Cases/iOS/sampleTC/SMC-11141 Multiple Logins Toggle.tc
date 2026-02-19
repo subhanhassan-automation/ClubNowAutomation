@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SMC-11141 Multiple Logins Toggle</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4350d72-15c6-4ba2-8d28-95544b89a08d</testCaseGuid>
+</TestCaseEntity>
