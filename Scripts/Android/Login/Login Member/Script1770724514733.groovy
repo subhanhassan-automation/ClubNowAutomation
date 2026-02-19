@@ -21,7 +21,8 @@ if (hintText.equalsIgnoreCase('Member Number')) {
 
     Mobile.tap(findTestObject('Object Repository/android.widget.Button - Sign In (1)'), 0)
 
-    println('Logged in using Member Number') // Email Login
+    println('Logged in using Member Number' // Email Login
+        )
 } else if (hintText.equalsIgnoreCase('Email Address')) {
     Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText (5)'), 'test@globalnorthstar.com')
 
