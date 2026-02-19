@@ -19,12 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('/Users/muhammadali/Downloads/nsplus.app', true)
 
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeTextField - LandingViewController.txtFieldClubName'), 0)
-
-Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeTextField - LandingViewController.txtFieldClubName'), 'aqdas')
-
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - LandingViewController.connectBtn'), 0)
-
 Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Continue to Login'), 0)
 
 Mobile.tap(findTestObject('Object Repository/XCUIElementTypeTextField - Member Number'), 0)
