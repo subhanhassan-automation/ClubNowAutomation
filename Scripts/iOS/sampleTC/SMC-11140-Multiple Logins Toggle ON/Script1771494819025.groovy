@@ -17,10 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('/Users/muhammadali/Downloads/nsplus.app', true)
-
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Continue to Login'), 0)
-
+Mobile.startApplication('/Users/muhammadali/Documents/nsplus.app', true)
 Mobile.tap(findTestObject('Object Repository/XCUIElementTypeTextField - Member Number'), 0)
 
 Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeTextField - Member Number'), '10124')
@@ -28,10 +25,7 @@ Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeTextField - Mem
 Mobile.tap(findTestObject('Object Repository/XCUIElementTypeSecureTextField - Password'), 0)
 
 Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeSecureTextField - Password'), '123456')
+Mobile.tap(findTestObject('Object Repository/Toggle OFF/XCUIElementTypeButton - Sign In'), 0)
 
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Sign In'), 0)
-
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Allow'), 0)
-
-//Mobile.closeApplication()
+Mobile.closeApplication()
 
