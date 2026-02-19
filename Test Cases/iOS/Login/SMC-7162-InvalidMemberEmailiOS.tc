@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SMC-7162-InvalidMemberEmailiOS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>60fb27b4-4631-4b0a-a584-e86da328c9ec</testCaseGuid>
+</TestCaseEntity>
