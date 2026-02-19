@@ -17,11 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Android/Login Member'), [:], FailureHandling.STOP_ON_FAILURE)
+Mobile.startApplication('D:\\ClubNow-Android.apk', true)
 
-Mobile.tap(findTestObject('android.widget.TextView - STATEMENTS'), 0)
+Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.ImageView (11)'), 0)
 
-Mobile.tap(findTestObject('android.widget.EditText'), 0)
+Mobile.tapAndHold(findTestObject('Object Repository/Test Cases/android.widget.Button - Member Profile (1)'), 2, 60)
+
+Mobile.tap(findTestObject('Object Repository/Test Cases/android.widget.Button - Member Profile (1)'), 0)
 
 Mobile.closeApplication()
-
