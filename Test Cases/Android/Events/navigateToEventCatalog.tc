@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>navigateToEventCatalog</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>43f14777-459e-449a-aa4e-933fd5b4cab1</testCaseGuid>
+</TestCaseEntity>
