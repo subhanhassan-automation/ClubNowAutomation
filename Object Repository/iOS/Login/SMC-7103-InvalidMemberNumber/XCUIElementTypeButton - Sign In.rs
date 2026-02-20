@@ -13,39 +13,39 @@
       <name>type</name>
       <type>Main</type>
       <value>XCUIElementTypeButton</value>
-      <webElementGuid>e9f0a14d-d01d-4dad-97ba-ad8eadda6104</webElementGuid>
+      <webElementGuid>fb6d5fa0-5021-487b-bac9-033e82c5693b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>89aa1581-a51d-47b0-b444-8ab404a2862c</webElementGuid>
+      <webElementGuid>816831ff-50d2-4875-8299-ae3bdc69e0fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a55dd148-b650-4019-a9ac-d17f1d74505a</webElementGuid>
+      <webElementGuid>81f5d32c-425b-4c13-899c-d2c50b1814d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
       <value>102.0</value>
-      <webElementGuid>600a3da8-f480-4fb1-b51b-c9b931632dd6</webElementGuid>
+      <webElementGuid>d34b84ea-7f90-4caf-bbd6-7fb3f69f0172</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c3051bb3-8b29-4ece-b056-5a1f7ccb2422</webElementGuid>
+      <webElementGuid>870ae527-283f-4b80-a21e-bcf4341f203a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>label</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>a649036d-55f0-4036-b9f8-e584e4ca8f9d</webElementGuid>
+      <webElementGuid>5929f86e-56da-4d45-bdc1-20af018182b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,97 +61,97 @@
       <name>name</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>98850788-fdd4-4201-ac76-05abe9a9e3ad</webElementGuid>
+      <webElementGuid>8b9b4d89-74ba-466d-b13a-508ba1c569cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>traits</name>
       <type>Main</type>
       <value>Button</value>
-      <webElementGuid>7c21ba04-e020-4985-8f46-263f6155efdf</webElementGuid>
+      <webElementGuid>9a487b33-d4fc-4d2a-83cb-3b5b1ae22526</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>740.0</value>
-      <webElementGuid>57bafafc-26ac-4236-ad5c-c8a2a111fbec</webElementGuid>
+      <value>716.0</value>
+      <webElementGuid>165ede34-9e70-4bf7-958a-243e7bf6da85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
       <value>32.0</value>
-      <webElementGuid>7c954b4f-69d5-4ede-bb40-ac3b9690764c</webElementGuid>
+      <webElementGuid>46bad6c5-619b-4fda-a836-84406569195c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>786.0</value>
-      <webElementGuid>2fbbc0cd-7086-4e13-99b4-26e9add13e89</webElementGuid>
+      <value>726.0</value>
+      <webElementGuid>2e5be591-0990-4da8-b772-b3c20c5f7e31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[4]/XCUIElementTypeButton[1]</value>
-      <webElementGuid>61e98cef-e26f-43e6-bbb0-80286af56a9c</webElementGuid>
+      <webElementGuid>283bb2be-c2ca-4487-b6c6-8ddd11215835</webElementGuid>
    </webElementProperties>
    <locator>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[4]/XCUIElementTypeButton[1]</locator>
    <locatorCollection>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[4]/XCUIElementTypeButton[1]</value>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeButton' and @label = 'Sign In' and @name = 'Sign In']</value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
-         <value></value>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
          <value>**/XCUIElementTypeButton[`label == 'Sign In' AND name == 'Sign In'`]</value>
       </entry>
       <entry>
-         <key>NAME</key>
-         <value>Sign In</value>
-      </entry>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeButton' AND label == 'Sign In' AND name == 'Sign In'</value>
-      </entry>
-      <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeButton' and @label = 'Sign In' and @name = 'Sign In']</value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
          <value>XCUIElementTypeButton</value>
       </entry>
       <entry>
-         <key>ACCESSIBILITY</key>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeButton' AND label == 'Sign In' AND name == 'Sign In'</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
          <value>Sign In</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+         <value></value>
       </entry>
       <entry>
          <key>ID</key>
          <value>Sign In</value>
       </entry>
       <entry>
-         <key>CUSTOM</key>
-         <value></value>
+         <key>ACCESSIBILITY</key>
+         <value>Sign In</value>
       </entry>
    </locatorCollection>
    <locatorStrategy>XPATH</locatorStrategy>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>XCUIElementTypeStaticText - You are not allowed to login. Please contact support</name>
+   <tag></tag>
+   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>XCUIElementTypeStaticText</value>
+      <webElementGuid>cb77ac6c-3a00-41fd-ac56-7546f6f31558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accessible</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4b9e88b6-6d59-46b3-bde8-fdcaaf032b2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>enabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>096e9349-2906-4894-9a5c-51789476af69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>80.0</value>
+      <webElementGuid>2d0a8b1e-747e-4d0a-bdd9-af6d8e53d115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b3e7da72-c6f8-482a-a4bf-39a25798a594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>You are not allowed to login. Please contact support.</value>
+      <webElementGuid>71ab1467-27c3-4c2b-a28b-13620aca796f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>You are not allowed to login. Please contact support.</value>
+      <webElementGuid>d688488d-af55-438a-bb50-63d9e20602c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>traits</name>
+      <type>Main</type>
+      <value>StaticText</value>
+      <webElementGuid>686db888-0a86-4fd3-8b27-7337b7c48b86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>You are not allowed to login. Please contact support.</value>
+      <webElementGuid>21fc2c4a-3a93-47a5-ad1a-27a88aff2355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>580.0</value>
+      <webElementGuid>670e363c-c231-4e51-b117-400f4a182d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>132.0</value>
+      <webElementGuid>c8f94275-d41a-4686-b627-6dfe38c1f01b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>872.0</value>
+      <webElementGuid>67d6f51d-abb5-4932-bb67-b5f0d39af76f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//XCUIElementTypeStaticText[@label='You are not allowed to login. Please contact support.']</value>
+      <webElementGuid>befd6e83-1eb7-4a59-b1a8-55caa8f0fce4</webElementGuid>
+   </webElementProperties>
+   <locator>//XCUIElementTypeStaticText[@label='You are not allowed to login. Please contact support.']</locator>
+   <locatorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeStaticText[@label='You are not allowed to login. Please contact support.']</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**/XCUIElementTypeStaticText[`label == 'You are not allowed to login. Please contact support.' AND name == 'You are not allowed to login. Please contact support.' AND value == 'You are not allowed to login. Please contact support.'`]</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = 'You are not allowed to login. Please contact support.' and @name = 'You are not allowed to login. Please contact support.' and @value = 'You are not allowed to login. Please contact support.']</value>
+      </entry>
+      <entry>
+         <key>CLASS_NAME</key>
+         <value>XCUIElementTypeStaticText</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeStaticText' AND label == 'You are not allowed to login. Please contact support.' AND name == 'You are not allowed to login. Please contact support.' AND name == 'You are not allowed to login. Please contact support.'</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value>You are not allowed to login. Please contact support.</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>You are not allowed to login. Please contact support.</value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value>You are not allowed to login. Please contact support.</value>
+      </entry>
+   </locatorCollection>
+   <locatorStrategy>XPATH</locatorStrategy>
+   <platform>IOS</platform>
+</MobileElementEntity>

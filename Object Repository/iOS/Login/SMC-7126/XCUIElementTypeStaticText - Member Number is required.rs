@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>XCUIElementTypeStaticText - Member Number is required</name>
+   <tag></tag>
+   <elementGuidId>c488f365-b40a-4ba6-9c98-c4ef48b55026</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>XCUIElementTypeStaticText</value>
+      <webElementGuid>4e2c8eb9-40c0-4085-b934-0493f37de33e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accessible</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d89c9823-3ba5-476b-8d86-375e24dfa9bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>enabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b340a619-fac4-4349-a6ab-b97ea894cb14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>40.0</value>
+      <webElementGuid>ca9e48a6-cdb9-4496-9e1f-7b2a957454c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7cd14083-f40f-4317-ab9e-bd14a21cde55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Member Number is required</value>
+      <webElementGuid>86004a6f-0a15-414f-9cab-4351f02f2218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Member Number is required</value>
+      <webElementGuid>3865ac1f-d279-4e94-8f0f-1776e716b081</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>traits</name>
+      <type>Main</type>
+      <value>StaticText</value>
+      <webElementGuid>daec55fe-59b6-4c9f-b5df-711cd32802d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Member Number is required</value>
+      <webElementGuid>c1660df8-1b07-4b29-a4e8-66b2d3662c48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>398.0</value>
+      <webElementGuid>77b3d2c9-4f86-4fdb-852b-b6e74a1738be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>32.0</value>
+      <webElementGuid>85ec1cd9-0376-4769-b82f-152a58276c1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>1106.0</value>
+      <webElementGuid>4c2f58c7-c439-4045-adbf-8bf76fa6380d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//XCUIElementTypeStaticText[@label='Member Number is required' or @name='Member Number is required']</value>
+      <webElementGuid>7dc5dd33-c853-4463-b33e-e58e61a00376</webElementGuid>
+   </webElementProperties>
+   <locator>//XCUIElementTypeStaticText[@label='Member Number is required' or @name='Member Number is required']</locator>
+   <locatorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeStaticText[@label='Member Number is required' or @name='Member Number is required']</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**/XCUIElementTypeStaticText[`label == 'Member Number is required' AND name == 'Member Number is required' AND value == 'Member Number is required'`]</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value>Member Number is required</value>
+      </entry>
+      <entry>
+         <key>CLASS_NAME</key>
+         <value>XCUIElementTypeStaticText</value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = 'Member Number is required' and @name = 'Member Number is required' and @value = 'Member Number is required']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeStaticText' AND label == 'Member Number is required' AND name == 'Member Number is required' AND name == 'Member Number is required'</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value>Member Number is required</value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>Member Number is required</value>
+      </entry>
+   </locatorCollection>
+   <locatorStrategy>XPATH</locatorStrategy>
+   <platform>IOS</platform>
+</MobileElementEntity>

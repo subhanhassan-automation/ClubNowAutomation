@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>XCUIElementTypeStaticText - Password is required</name>
+   <tag></tag>
+   <elementGuidId>09914ec6-6939-46f2-aac0-787caf708d6b</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>XCUIElementTypeStaticText</value>
+      <webElementGuid>a1a4d0ca-4089-437c-b8a6-e4ed739f7657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accessible</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ce1eb88a-c834-43c4-a545-3a8fd2cd6e44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>enabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0a1b92f8-26cf-45e3-a2ff-3a2fcaf028ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>40.0</value>
+      <webElementGuid>a48542ad-1ea7-4e1c-9962-db8dfd94e99f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f2fbb671-64e8-4a8b-9448-6ac03e97494a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Password is required</value>
+      <webElementGuid>17273ea7-b6c2-4604-9086-42652e0873e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Password is required</value>
+      <webElementGuid>de6aea41-5825-44af-a923-e64571cfe381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>traits</name>
+      <type>Main</type>
+      <value>StaticText</value>
+      <webElementGuid>053bf835-689a-49c4-a3e1-c2e2770aa41d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Password is required</value>
+      <webElementGuid>8a207a9c-5e69-448a-a9ad-f534dc6ee247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>294.0</value>
+      <webElementGuid>b9488ccd-c8e6-4419-aefd-f51ad8de450d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>32.0</value>
+      <webElementGuid>f25098b2-ca75-48fe-9e0c-202348f89158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>1312.0</value>
+      <webElementGuid>7f231370-6933-4688-9ed8-863d63e63975</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//XCUIElementTypeStaticText[@label=&quot;Password is required&quot;]</value>
+      <webElementGuid>795ff184-a1dd-44da-9622-ab929be806ab</webElementGuid>
+   </webElementProperties>
+   <locator>//XCUIElementTypeStaticText[@label=&quot;Password is required&quot;]
+</locator>
+   <locatorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeStaticText[@label=&quot;Password is required&quot;]
+</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**/XCUIElementTypeStaticText[`label == 'Password is required' AND name == 'Password is required' AND value == 'Password is required'`]</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value>Password is required</value>
+      </entry>
+      <entry>
+         <key>CLASS_NAME</key>
+         <value>XCUIElementTypeStaticText</value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = 'Password is required' and @name = 'Password is required' and @value = 'Password is required']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeStaticText' AND label == 'Password is required' AND name == 'Password is required' AND name == 'Password is required'</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value>Password is required</value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>Password is required</value>
+      </entry>
+   </locatorCollection>
+   <locatorStrategy>XPATH</locatorStrategy>
+   <platform>IOS</platform>
+</MobileElementEntity>

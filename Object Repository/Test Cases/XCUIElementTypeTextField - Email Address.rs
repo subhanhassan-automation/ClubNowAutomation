@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>XCUIElementTypeSecureTextField - Password</name>
+   <name>XCUIElementTypeTextField - Email Address</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,90 +12,90 @@
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>XCUIElementTypeSecureTextField</value>
-      <webElementGuid>5ddb6de3-2aa3-4ff1-83cb-a90dcc772627</webElementGuid>
+      <value>XCUIElementTypeTextField</value>
+      <webElementGuid>ff039bf4-e1a7-4d61-ac40-384431836917</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>17836e59-d177-46c0-8b7e-b61bdf9fd044</webElementGuid>
+      <webElementGuid>440f8b45-bfaa-4d8b-95e6-c4834fa4a7de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e27a8cd7-3ceb-40a1-81dd-1b5294f030db</webElementGuid>
+      <webElementGuid>d300eedd-7752-4712-a5c8-3ba31b254eb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>78.0</value>
-      <webElementGuid>82acdfa6-d3cb-4baa-862c-5bafee5fbfb5</webElementGuid>
+      <value>76.0</value>
+      <webElementGuid>c2aa1706-a812-452f-86ec-12f79943c9f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>3</value>
-      <webElementGuid>8f05a933-a24b-431c-a026-9c331f8fcdb7</webElementGuid>
+      <value>1</value>
+      <webElementGuid>a991a4d9-84e6-4b45-b6e8-ce10a37d1616</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholderValue</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>d2c90eed-f3ac-4d8c-bca2-a29a2893501f</webElementGuid>
+      <value>Email Address</value>
+      <webElementGuid>a4d12934-d4ce-46a0-bf7c-ebb4ed6a789e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>0efa26ca-54c8-4b1f-aab1-52cf03d420b1</webElementGuid>
+      <value>Email Address</value>
+      <webElementGuid>3ff97b53-5106-4eaf-9c8f-9151e9f4902a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>588.0</value>
-      <webElementGuid>aada7022-6463-4dcb-9caa-e0cd760dd050</webElementGuid>
+      <value>680.0</value>
+      <webElementGuid>04076f74-97a9-4ad1-b89c-5c23226ba1d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
       <value>92.0</value>
-      <webElementGuid>1457a9b2-a803-4dd9-95a6-fd844ea6dae0</webElementGuid>
+      <webElementGuid>4221dc1e-049a-48f2-a601-64f54a65cd61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>628.0</value>
-      <webElementGuid>0f281f7a-9968-43a5-8944-bb1af1bfd022</webElementGuid>
+      <value>1098.0</value>
+      <webElementGuid>f8f416c0-e5de-4544-b4e2-32d77a68d3de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]</value>
-      <webElementGuid>4d9ae1f8-9269-472f-94f9-cd8ad828effd</webElementGuid>
+      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeTextField[1]</value>
+      <webElementGuid>8ed53853-9b61-404f-8fb6-3dd3b317ad58</webElementGuid>
    </webElementProperties>
-   <locator>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]</locator>
+   <locator>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeTextField[1]</locator>
    <locatorCollection>
       <entry>
          <key>IMAGE</key>
@@ -103,11 +103,11 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]</value>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeTextField[1]</value>
       </entry>
       <entry>
          <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeSecureTextField' and @value = 'Password']</value>
+         <value>//*[@type = 'XCUIElementTypeTextField' and @value = 'Email Address']</value>
       </entry>
       <entry>
          <key>ANDROID_VIEWTAG</key>
@@ -115,7 +115,7 @@
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
-         <value>**/XCUIElementTypeSecureTextField[`value == 'Password'`]</value>
+         <value>**/XCUIElementTypeTextField[`value == 'Email Address'`]</value>
       </entry>
       <entry>
          <key>NAME</key>
@@ -123,7 +123,7 @@
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeSecureTextField' AND name == 'Password'</value>
+         <value>type == 'XCUIElementTypeTextField' AND name == 'Email Address'</value>
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
@@ -131,7 +131,7 @@
       </entry>
       <entry>
          <key>CLASS_NAME</key>
-         <value>XCUIElementTypeSecureTextField</value>
+         <value>XCUIElementTypeTextField</value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>

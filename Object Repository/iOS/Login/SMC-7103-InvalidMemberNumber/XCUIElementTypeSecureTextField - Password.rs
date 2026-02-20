@@ -13,47 +13,47 @@
       <name>type</name>
       <type>Main</type>
       <value>XCUIElementTypeSecureTextField</value>
-      <webElementGuid>5ddb6de3-2aa3-4ff1-83cb-a90dcc772627</webElementGuid>
+      <webElementGuid>39f4dd55-06e7-4cd8-98b4-e7cf6f6e00e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>17836e59-d177-46c0-8b7e-b61bdf9fd044</webElementGuid>
+      <webElementGuid>09932c50-4230-4ee3-8dd9-e7a9a8c9c246</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e27a8cd7-3ceb-40a1-81dd-1b5294f030db</webElementGuid>
+      <webElementGuid>7bf094b0-7b6b-46c9-bfd0-1b5b78bef1f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
       <value>78.0</value>
-      <webElementGuid>82acdfa6-d3cb-4baa-862c-5bafee5fbfb5</webElementGuid>
+      <webElementGuid>64378433-9442-4c13-8288-cf3d0d9a542e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>8f05a933-a24b-431c-a026-9c331f8fcdb7</webElementGuid>
+      <webElementGuid>2203bb61-dd0d-4bf9-a3c0-f254716da9da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholderValue</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>d2c90eed-f3ac-4d8c-bca2-a29a2893501f</webElementGuid>
+      <webElementGuid>405baad0-28b5-48d2-b95e-29e46e789a5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,64 +61,64 @@
       <name>value</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>0efa26ca-54c8-4b1f-aab1-52cf03d420b1</webElementGuid>
+      <webElementGuid>e3259162-e65e-4f1a-a9fe-58fe855eccf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>588.0</value>
-      <webElementGuid>aada7022-6463-4dcb-9caa-e0cd760dd050</webElementGuid>
+      <value>564.0</value>
+      <webElementGuid>86613195-bb1a-4d3f-a233-d0c51aa39e66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
       <value>92.0</value>
-      <webElementGuid>1457a9b2-a803-4dd9-95a6-fd844ea6dae0</webElementGuid>
+      <webElementGuid>a03b65e4-b4f1-492d-9935-21b15abb127d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>628.0</value>
-      <webElementGuid>0f281f7a-9968-43a5-8944-bb1af1bfd022</webElementGuid>
+      <value>598.0</value>
+      <webElementGuid>bb8a39e6-bf23-4814-b019-3a108fb1ca19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]</value>
-      <webElementGuid>4d9ae1f8-9269-472f-94f9-cd8ad828effd</webElementGuid>
+      <webElementGuid>fe13d206-4a7e-4d71-b730-7898c9072e24</webElementGuid>
    </webElementProperties>
    <locator>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]</locator>
    <locatorCollection>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]</value>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeSecureTextField' and @value = 'Password']</value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
-         <value></value>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
          <value>**/XCUIElementTypeSecureTextField[`value == 'Password'`]</value>
       </entry>
       <entry>
-         <key>NAME</key>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeSecureTextField' and @value = 'Password']</value>
+      </entry>
+      <entry>
+         <key>CLASS_NAME</key>
+         <value>XCUIElementTypeSecureTextField</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
          <value></value>
       </entry>
       <entry>
@@ -126,15 +126,15 @@
          <value>type == 'XCUIElementTypeSecureTextField' AND name == 'Password'</value>
       </entry>
       <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
+         <key>NAME</key>
          <value></value>
       </entry>
       <entry>
-         <key>CLASS_NAME</key>
-         <value>XCUIElementTypeSecureTextField</value>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
       </entry>
       <entry>
-         <key>ACCESSIBILITY</key>
+         <key>CUSTOM</key>
          <value></value>
       </entry>
       <entry>
@@ -142,7 +142,7 @@
          <value></value>
       </entry>
       <entry>
-         <key>CUSTOM</key>
+         <key>ACCESSIBILITY</key>
          <value></value>
       </entry>
    </locatorCollection>
