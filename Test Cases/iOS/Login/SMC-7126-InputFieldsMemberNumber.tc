@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SMC-7126-InputFieldsMemberNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6161d2fa-d6fc-46eb-9894-44f75b539d7a</testCaseGuid>
+</TestCaseEntity>

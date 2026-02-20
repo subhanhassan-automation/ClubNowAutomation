@@ -19,8 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('/Users/sibisoft/Desktop/LocalApp/nsplus.app', true)
 
-WebUI.callTestCase(findTestCase('iOS/Login/ClientID'), [:], FailureHandling.STOP_ON_FAILURE)
-
 Mobile.tap(findTestObject('Object Repository/iOS/Login/SMC-7161/XCUIElementTypeButton - Continue to Login'), 0)
 
 Mobile.tap(findTestObject('Object Repository/iOS/Login/SMC-7161/XCUIElementTypeButton - Sign In'), 0)

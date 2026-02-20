@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>XCUIElementTypeStaticText - Member Number should not contain any special character(s)</name>
+   <tag></tag>
+   <elementGuidId>f303f3e7-ab32-438e-a16a-db5c17bdb23a</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>XCUIElementTypeStaticText</value>
+      <webElementGuid>9f485b47-66fa-4879-90ee-c3b8d77e0e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accessible</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>487dabe4-5cbd-4d24-bb0f-acfaffeb8a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>enabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>882ee1f7-fa2a-46ea-ae64-b2d154df9d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>86.0</value>
+      <webElementGuid>50ec57bc-7098-49c6-8790-b9255729bb67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e0f35586-ec35-4b58-9ae0-217f2782532c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Member Number should not contain any special character(s)</value>
+      <webElementGuid>069f584f-daea-4a27-932b-7479a6c98f13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Member Number should not contain any special character(s)</value>
+      <webElementGuid>4645ed7e-b372-43f5-814c-02731dd9ba2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>traits</name>
+      <type>Main</type>
+      <value>StaticText</value>
+      <webElementGuid>cb70d454-58a1-43a4-9baf-a7363e74f199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Member Number should not contain any special character(s)</value>
+      <webElementGuid>451a164c-f7c5-493e-afa6-e281de60a6a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>672.0</value>
+      <webElementGuid>71d0bd86-30cf-47f0-8d22-e3ec7a8de29e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>32.0</value>
+      <webElementGuid>9ba0f15e-f04e-4665-93e2-4815a71c17f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>1138.0</value>
+      <webElementGuid>112e5161-2b3c-4646-a90a-09a6b7d0c7d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//XCUIElementTypeStaticText[@label=&quot;Member Number should not contain any special character(s)&quot;]
+</value>
+      <webElementGuid>11fa2583-d432-4bc7-bdbf-09c5e0f1ed85</webElementGuid>
+   </webElementProperties>
+   <locator>//XCUIElementTypeStaticText[@label=&quot;Member Number should not contain any special character(s)&quot;]
+</locator>
+   <locatorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeStaticText[@label=&quot;Member Number should not contain any special character(s)&quot;]
+</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**/XCUIElementTypeStaticText[`label == 'Member Number should not contain any special character(s)' AND name == 'Member Number should not contain any special character(s)' AND value == 'Member Number should not contain any special character(s)'`]</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value>Member Number should not contain any special character(s)</value>
+      </entry>
+      <entry>
+         <key>CLASS_NAME</key>
+         <value>XCUIElementTypeStaticText</value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = 'Member Number should not contain any special character(s)' and @name = 'Member Number should not contain any special character(s)' and @value = 'Member Number should not contain any special character(s)']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeStaticText' AND label == 'Member Number should not contain any special character(s)' AND name == 'Member Number should not contain any special character(s)' AND name == 'Member Number should not contain any special character(s)'</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value>Member Number should not contain any special character(s)</value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>Member Number should not contain any special character(s)</value>
+      </entry>
+   </locatorCollection>
+   <locatorStrategy>XPATH</locatorStrategy>
+   <platform>IOS</platform>
+</MobileElementEntity>
