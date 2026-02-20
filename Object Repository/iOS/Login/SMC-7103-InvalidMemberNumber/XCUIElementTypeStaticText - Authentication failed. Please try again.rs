@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>XCUIElementTypeStaticText - Authentication failed. Please try again</name>
+   <tag></tag>
+   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>XCUIElementTypeStaticText</value>
+      <webElementGuid>02283816-7ec0-43b4-b8b5-ca4b6e7791a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accessible</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>97b9e706-28a5-48a1-ad30-698bc33e6252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>enabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>48dd81b7-98d4-4b90-ad94-8e31d14a2742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>40.0</value>
+      <webElementGuid>8e4b827e-6266-474e-9a74-96d927e05c34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>46f4a4bc-49d3-42ee-b2e3-d12a31883647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Authentication failed. Please try again.</value>
+      <webElementGuid>96c5f995-aba6-4c77-9e27-784aa201ad90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Authentication failed. Please try again.</value>
+      <webElementGuid>298e684c-a482-46f9-9060-2bb10c4c2fff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>traits</name>
+      <type>Main</type>
+      <value>StaticText</value>
+      <webElementGuid>14087f8c-8a68-49f0-9b4e-491098c5b7cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Authentication failed. Please try again.</value>
+      <webElementGuid>c43c73c6-7c01-4029-84d0-38e9f28533d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>512.0</value>
+      <webElementGuid>fccadec1-84ed-48bf-8bb2-b31027e584fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>168.0</value>
+      <webElementGuid>f79c1e1a-fd37-4001-9132-8ac4fc5294f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>912.0</value>
+      <webElementGuid>62d318d0-267d-4e98-b0da-dbb1e74507cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//XCUIElementTypeStaticText[@label='Authentication failed. Please try again.']</value>
+      <webElementGuid>550227e3-a11b-4913-9266-ef72eafaffe5</webElementGuid>
+   </webElementProperties>
+   <locator>//XCUIElementTypeStaticText[@label='Authentication failed. Please try again.']</locator>
+   <locatorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeStaticText[@label='Authentication failed. Please try again.']</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**/XCUIElementTypeStaticText[`label == 'Authentication failed. Please try again.' AND name == 'Authentication failed. Please try again.' AND value == 'Authentication failed. Please try again.'`]</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = 'Authentication failed. Please try again.' and @name = 'Authentication failed. Please try again.' and @value = 'Authentication failed. Please try again.']</value>
+      </entry>
+      <entry>
+         <key>CLASS_NAME</key>
+         <value>XCUIElementTypeStaticText</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeStaticText' AND label == 'Authentication failed. Please try again.' AND name == 'Authentication failed. Please try again.' AND name == 'Authentication failed. Please try again.'</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value>Authentication failed. Please try again.</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>Authentication failed. Please try again.</value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value>Authentication failed. Please try again.</value>
+      </entry>
+   </locatorCollection>
+   <locatorStrategy>XPATH</locatorStrategy>
+   <platform>IOS</platform>
+</MobileElementEntity>

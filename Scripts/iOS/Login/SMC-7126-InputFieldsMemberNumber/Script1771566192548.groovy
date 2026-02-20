@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('/Users/sibisoft/Desktop/nsplus.app', true)
+Mobile.startApplication('/Users/sibisoft/Downloads/ClubNowLive.ipa', true)
 
 Mobile.tap(findTestObject('Object Repository/iOS/Login/SMC-7126/XCUIElementTypeButton - Continue to Login'), 0)
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SMC-7103-InvalidMemberNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2f3e488d-419f-4aff-8d2b-75073106a9fd</testCaseGuid>
+</TestCaseEntity>

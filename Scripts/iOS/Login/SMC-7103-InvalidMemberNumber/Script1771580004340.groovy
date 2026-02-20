@@ -19,19 +19,18 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('/Users/sibisoft/Downloads/ClubNowLive.ipa', true)
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/XCUIElementTypeButton - Continue to Login'), 0)
+Mobile.tap(findTestObject('Object Repository/iOS/Login/SMC-7103-InvalidMemberNumber/XCUIElementTypeButton - Continue to Login'), 
+    0)
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/XCUIElementTypeTextField - Email Address'), 0)
+Mobile.sendKeys(findTestObject('Object Repository/iOS/Login/SMC-7103-InvalidMemberNumber/XCUIElementTypeTextField - Member Number'), 
+    '121234131')
 
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/XCUIElementTypeTextField - Email Address'), 'invalidEmail@address.com')
+Mobile.sendKeys(findTestObject('Object Repository/iOS/Login/SMC-7103-InvalidMemberNumber/XCUIElementTypeSecureTextField - Password'), 
+    '123456')
 
-Mobile.tap(findTestObject('Object Repository/Test Cases/XCUIElementTypeSecureTextField - Password'), 0)
+Mobile.tap(findTestObject('Object Repository/iOS/Login/SMC-7103-InvalidMemberNumber/XCUIElementTypeButton - Sign In'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/Test Cases/XCUIElementTypeSecureTextField - Password'), '123456')
-
-Mobile.tap(findTestObject('Object Repository/Test Cases/XCUIElementTypeButton - Sign In'), 0)
-
-Mobile.verifyElementText(findTestObject('Object Repository/Test Cases/XCUIElementTypeStaticText - Authentication failed. Please try again'), 
+Mobile.verifyElementText(findTestObject('Object Repository/iOS/Login/SMC-7103-InvalidMemberNumber/XCUIElementTypeStaticText - Authentication failed. Please try again'), 
     'Authentication failed. Please try again.')
 
 Mobile.closeApplication()
