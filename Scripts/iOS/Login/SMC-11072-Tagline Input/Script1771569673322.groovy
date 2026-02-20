@@ -19,21 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('/Users/muhammadali/Downloads/nsplus.app', true)
 
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Continue to Login'), 0)
+Mobile.verifyElementText(findTestObject('Object Repository/SMC-11072-Tagline Input/XCUIElementTypeStaticText - A Life Inspired'), 
+    '1')
 
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeTextField - Member Number'), 0)
+Mobile.verifyElementText(findTestObject('Object Repository/SMC-11072-Tagline Input/XCUIElementTypeStaticText - NorthStar Club is the destination for visionaries to gather and connect'), 
+    'NorthStar Club is the destination for visionaries to gather and connect.')
 
-Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeTextField - Member Number'), '10124')
-
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeSecureTextField - Password'), 0)
-
-Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeSecureTextField - Password'), '123456')
-
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Sign In'), 0)
-
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Allow'), 0)
-
-Mobile.delay(5)
-
-//Mobile.closeApplication()
+Mobile.closeApplication()
 

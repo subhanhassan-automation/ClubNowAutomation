@@ -19,21 +19,17 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('/Users/muhammadali/Downloads/nsplus.app', true)
 
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Continue to Login'), 0)
+Mobile.tap(findTestObject('Object Repository/SMC-11147-Rendering of HTML Tags/XCUIElementTypeButton - Continue to Login'), 
+    0)
 
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeTextField - Member Number'), 0)
+Mobile.tap(findTestObject('Object Repository/SMC-11147-Rendering of HTML Tags/XCUIElementTypeStaticText - Try Login Instructions'), 
+    0)
 
-Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeTextField - Member Number'), '10124')
+Mobile.verifyElementText(findTestObject('Object Repository/SMC-11147-Rendering of HTML Tags/XCUIElementTypeStaticText - Member Number and Password'), 
+    ' Member Number and Password.')
 
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeSecureTextField - Password'), 0)
+Mobile.verifyElementText(findTestObject('Object Repository/SMC-11147-Rendering of HTML Tags/XCUIElementTypeStaticText - Your account should be available in Backoffice application'), 
+    'Your account should be available in Backoffice application.')
 
-Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeSecureTextField - Password'), '123456')
-
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Sign In'), 0)
-
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Allow'), 0)
-
-Mobile.delay(5)
-
-//Mobile.closeApplication()
+Mobile.closeApplication()
 

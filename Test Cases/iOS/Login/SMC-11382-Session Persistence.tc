@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SMC-11382-Session Persistence</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fce43f50-cd9d-4acf-802e-5eb975a42c89</testCaseGuid>
+</TestCaseEntity>
