@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SMC-7154-InactiveMember</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cba8236c-8328-4e35-b0a8-f326a1e39099</testCaseGuid>
+</TestCaseEntity>
