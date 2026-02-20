@@ -23,6 +23,7 @@ WebUI.callTestCase(findTestCase('Android/Login/Login Member'), [:], FailureHandl
 
 Mobile.tap(findTestObject('Object Repository/Page_NS - Event/android.widget.ImageView'), 0)
 
+// Note: The app UI uses the British spelling "Events Catalogue"; keep this text to match the UI even though the test case name uses "Catalog".
 Mobile.sendKeys(findTestObject('Object Repository/Page_NS - Event/android.widget.EditText (2)'), 'Events Catalogue')
 
 Mobile.tap(findTestObject('Object Repository/Page_NS - Event/android.view.View (2)'), 0)
