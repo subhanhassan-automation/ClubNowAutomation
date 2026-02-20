@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SMC-11147-Rendering of HTML Tags</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f21f7df5-dedb-4382-aa43-6272856d5dad</testCaseGuid>
+</TestCaseEntity>
