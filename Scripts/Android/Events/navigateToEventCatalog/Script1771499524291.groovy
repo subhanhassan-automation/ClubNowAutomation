@@ -28,4 +28,3 @@ Mobile.tap(findTestObject('Object Repository/Page_NS - Event/android.widget.Imag
 Mobile.sendKeys(findTestObject('Object Repository/Page_NS - Event/android.widget.EditText (2)'), 'Events Catalogue')
 
 Mobile.tap(findTestObject('Object Repository/Page_NS - Event/android.view.View (2)'), 0)
-
